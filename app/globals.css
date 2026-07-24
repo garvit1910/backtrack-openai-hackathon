@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Backtalk demo screen — dark-only (projector). Tokens from the validated dataviz palette. */
+:root {
+  color-scheme: dark;
+
+  --page: #0d0d0d;
+  --surface: #1a1a19;
+  --surface-2: #232322;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --ink-muted: #898781;
+  --grid: #2c2c2a;
+  --baseline: #383835;
+  --hairline: rgba(255, 255, 255, 0.1);
+
+  --accent: #9085e9;
+  --accent-dim: rgba(144, 133, 233, 0.16);
+  --good: #0ca30c;
+
+  /* fixed angle→hue assignment; never re-ordered per chart */
+  --angle-reliability: #3987e5;
+  --angle-speed: #d95926;
+  --angle-value: #199e70;
+  --angle-fit_guidance: #c98500;
+  --angle-service: #d55181;
+  --angle-trust: #008300;
+}
+
+body {
+  color: var(--ink-2);
+  background: var(--page);
+  font-family: var(--font-geist-sans), system-ui, -apple-system, "Segoe UI", sans-serif;
+  overflow-x: hidden;
+}
+
+/* width-stable digits for live counters and aligned metric columns */
+.num {
+  font-variant-numeric: tabular-nums;
+}
+
+@layer utilities {
+  .panel {
+    @apply rounded-xl border;
+    background: var(--surface);
+    border-color: var(--hairline);
+    transition: border-color 300ms ease, box-shadow 300ms ease;
+  }
+  .panel-active {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 1px var(--accent), 0 0 24px -6px var(--accent);
+  }
+}
