@@ -1,0 +1,58 @@
+[
+  {
+    "clusterId": "cl_0",
+    "claim": "The BBB reports a pattern of complaints against Piper and Ivy concerning non-delivery issues.",
+    "counterpoint": "BBB reached out to the business in January 2022 to obtain information about the complaints.",
+    "sourceUrl": "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+    "sourceName": "bbb.org"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "A TrustRadius review explicitly notes that Printfection has \u2018turnaround times are long.\u2019",
+    "counterpoint": "Despite the long turnaround comment, the review still gives Printfection a 7 out of 10 overall score.",
+    "sourceUrl": "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+    "sourceName": "trustradius.com"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "Blogger Maya Kern announced that a November 20th product launch would have delayed shipping because launch items were still in the warehouse and queued for check-in.",
+    "counterpoint": "The post attributes the delay to an unusually high holiday processing volume (warehouse check-in queue).",
+    "sourceUrl": "https://www.mayakern.com/blog/on-the-november-20th-launch",
+    "sourceName": "mayakern.com"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "Swag Off Road\u2019s customer service page states that if the company discovers a delay in a shipment, they will do their best to contact the customer.",
+    "counterpoint": "The policy language is conditional (\u2018will do our best\u2019), not an absolute delivery-time guarantee.",
+    "sourceUrl": "http://swagoffroad.com/pages/customer-service",
+    "sourceName": "swagoffroad.com"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "PPAI research describes branded-merch industry sales as only \u2018inching ahead,\u2019 with growth small enough that it hasn\u2019t relieved margin pressures or guaranteed profits.",
+    "counterpoint": "Although growth is modest, the phrasing indicates sales are still increasing (i.e., \u2018inching ahead\u2019).",
+    "sourceUrl": "https://www.ppai.org/media-hub/branded-merch-industry-sales-inching-ahead-ppai-research-shows/",
+    "sourceName": "ppai.org"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "Industry content (SnackNation) recommends quick-turnaround swag and promotional items as the solution when teams face tight deadlines.",
+    "counterpoint": "The guidance implies quick-turnaround options exist, but does not quantify how common or fast those options are in practice.",
+    "sourceUrl": "https://snacknation.com/blog/quick-turnaround-swag",
+    "sourceName": "snacknation.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "A Trustpilot review of Merchspirit (review by Luisa on 1/7/2025) explicitly states 'Sizing is off!' and that the reviewer bought two identical items hoping one would fit but could not return the other.",
+    "counterpoint": "This is a single Trustpilot review (Luisa, 1/7/2025) on the merchant's Trustpilot page.",
+    "sourceUrl": "https://ca.trustpilot.com/reviews/677d7e1a1e9202051ffabbae",
+    "sourceName": "ca.trustpilot.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "A product review on Swag\u2011Kicks says the buyer ordered size 41 but received children's shoes instead.",
+    "counterpoint": "The same reviewer also reports that the company required the buyer to pay return delivery charges when they asked about a return.",
+    "sourceUrl": "https://www.swag-kicks.com/products/asics-t696n-gel-kayano-23-low-top-lace-up-trainer-sneaker",
+    "sourceName": "swag-kicks.com"
+  }
+]

@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "rows": [
+    {
+      "id": "brand:identity",
+      "type": "brand_fact",
+      "content": "Crewkit: B2B team-merch subscription platform — branded apparel and swag kits for teams on monthly plans.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:tone",
+      "type": "brand_fact",
+      "content": "Copy must sound plainspoken, warm, concrete, dependable, numerate.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:voice-exemplar",
+      "type": "brand_fact",
+      "content": "Voice exemplar: \"Your offsite is on the 14th. Your kits land on the 10th — tracked, boxed, and sized right. That's the whole point.\"",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:vocab-use",
+      "type": "brand_fact",
+      "content": "Prefer the words: kit, drop, restock, print run, ship date, size curve, go-live.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:vocab-avoid",
+      "type": "brand_fact",
+      "content": "Avoid buzzwords: synergy, revolutionize, game-changing, world-class, best-in-class.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:proof-style",
+      "type": "brand_fact",
+      "content": "Back every claim with a number, a named source, or a customer ticket.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:banned-1",
+      "type": "brand_fact",
+      "content": "Never use the claim \"free\" in any copy.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:banned-2",
+      "type": "brand_fact",
+      "content": "Never use the claim \"guaranteed\" in any copy.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:banned-3",
+      "type": "brand_fact",
+      "content": "Never use the claim \"#1\" in any copy.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "brand:banned-4",
+      "type": "brand_fact",
+      "content": "Never use the claim \"never fails\" in any copy.",
+      "sourceRefs": [
+        "fixtures/brand.yaml"
+      ],
+      "confidence": 1,
+      "version": 1
+    },
+    {
+      "id": "pain:cl_0",
+      "type": "pain_point",
+      "content": "Shipping delays — 74 tickets (37% of volume, growing 74%), $65,501 MRR at risk.",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "ticket:tkt_0053",
+        "ticket:tkt_0009",
+        "ticket:tkt_0022"
+      ],
+      "confidence": 0.9,
+      "version": 1
+    },
+    {
+      "id": "pain:cl_6",
+      "type": "pain_point",
+      "content": "Sizing issues — 35 tickets (18% of volume, growing 69%), $23,557 MRR at risk.",
+      "clusterId": "cl_6",
+      "sourceRefs": [
+        "ticket:tkt_0076",
+        "ticket:tkt_0058",
+        "ticket:tkt_0061"
+      ],
+      "confidence": 0.9,
+      "version": 1
+    },
+    {
+      "id": "pain:cl_3",
+      "type": "pain_point",
+      "content": "Pricing concerns — 28 tickets (14% of volume, growing 150%), $18,718 MRR at risk.",
+      "clusterId": "cl_3",
+      "sourceRefs": [
+        "ticket:tkt_0092",
+        "ticket:tkt_0112",
+        "ticket:tkt_0118"
+      ],
+      "confidence": 0.9,
+      "version": 1
+    },
+    {
+      "id": "pain:cl_2",
+      "type": "pain_point",
+      "content": "Damaged shipments — 20 tickets (10% of volume, flat), $10,683 MRR at risk.",
+      "clusterId": "cl_2",
+      "sourceRefs": [
+        "ticket:tkt_0160",
+        "ticket:tkt_0145",
+        "ticket:tkt_0158"
+      ],
+      "confidence": 0.9,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_0:ce6a92d7",
+      "type": "evidence",
+      "content": "The BBB reports a pattern of complaints against Piper and Ivy concerning non-delivery issues. (Counterpoint: BBB reached out to the business in January 2022 to obtain information about the complaints.) [bbb.org]",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_0:050e59cf",
+      "type": "evidence",
+      "content": "A TrustRadius review explicitly notes that Printfection has ‘turnaround times are long.’ (Counterpoint: Despite the long turnaround comment, the review still gives Printfection a 7 out of 10 overall score.) [trustradius.com]",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_0:82c29086",
+      "type": "evidence",
+      "content": "Blogger Maya Kern announced that a November 20th product launch would have delayed shipping because launch items were still in the warehouse and queued for check-in. (Counterpoint: The post attributes the delay to an unusually high holiday processing volume (warehouse check-in queue).) [mayakern.com]",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_0:b2049eff",
+      "type": "evidence",
+      "content": "Swag Off Road’s customer service page states that if the company discovers a delay in a shipment, they will do their best to contact the customer. (Counterpoint: The policy language is conditional (‘will do our best’), not an absolute delivery-time guarantee.) [swagoffroad.com]",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "http://swagoffroad.com/pages/customer-service"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_0:344f3638",
+      "type": "evidence",
+      "content": "PPAI research describes branded-merch industry sales as only ‘inching ahead,’ with growth small enough that it hasn’t relieved margin pressures or guaranteed profits. (Counterpoint: Although growth is modest, the phrasing indicates sales are still increasing (i.e., ‘inching ahead’).) [ppai.org]",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "https://www.ppai.org/media-hub/branded-merch-industry-sales-inching-ahead-ppai-research-shows/"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_0:73121a5f",
+      "type": "evidence",
+      "content": "Industry content (SnackNation) recommends quick-turnaround swag and promotional items as the solution when teams face tight deadlines. (Counterpoint: The guidance implies quick-turnaround options exist, but does not quantify how common or fast those options are in practice.) [snacknation.com]",
+      "clusterId": "cl_0",
+      "sourceRefs": [
+        "https://snacknation.com/blog/quick-turnaround-swag"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_6:052659ea",
+      "type": "evidence",
+      "content": "A Trustpilot review of Merchspirit (review by Luisa on 1/7/2025) explicitly states 'Sizing is off!' and that the reviewer bought two identical items hoping one would fit but could not return the other. (Counterpoint: This is a single Trustpilot review (Luisa, 1/7/2025) on the merchant's Trustpilot page.) [ca.trustpilot.com]",
+      "clusterId": "cl_6",
+      "sourceRefs": [
+        "https://ca.trustpilot.com/reviews/677d7e1a1e9202051ffabbae"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    },
+    {
+      "id": "ev:cl_6:8734dcbb",
+      "type": "evidence",
+      "content": "A product review on Swag‑Kicks says the buyer ordered size 41 but received children's shoes instead. (Counterpoint: The same reviewer also reports that the company required the buyer to pay return delivery charges when they asked about a return.) [swag-kicks.com]",
+      "clusterId": "cl_6",
+      "sourceRefs": [
+        "https://www.swag-kicks.com/products/asics-t696n-gel-kayano-23-low-top-lace-up-trainer-sneaker"
+      ],
+      "confidence": 0.75,
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "starter": {
+    "positioning": "Get your team kits shipped quickly and reliably.",
+    "zendeskMacro": "Hi there! We understand that shipping delays can be frustrating and jeopardize your events. We're actively working to improve our shipping process to ensure you receive your kits on time. Thank you for your patience!",
+    "generatedBy": "llm"
+  },
+  "growth": {
+    "positioning": "Crewkit delivers branded kits faster, solving shipping delays for growth teams.",
+    "zendeskMacro": "Hi there! I understand that shipping delays have caused some frustration, and we're actively working to improve our processing times to ensure your kits arrive as quickly as possible. Your team's success is important to us, and we're here to help!",
+    "generatedBy": "llm"
+  },
+  "enterprise": {
+    "positioning": "Crewkit ensures your team swag is on time, every time.",
+    "zendeskMacro": "We understand shipping delays are frustrating. We're actively addressing these issues to improve our delivery timelines and keep your kits on track.",
+    "generatedBy": "llm"
+  }
+}

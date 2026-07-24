@@ -1,0 +1,42 @@
+brand:
+  name: Crewkit
+  oneLiner: B2B team-merch subscription platform — branded apparel and swag kits for teams on monthly plans.
+
+tone:
+  descriptors:
+    - plainspoken
+    - warm
+    - concrete
+    - dependable
+    - numerate
+
+voice:
+  exemplar: >-
+    Your offsite is on the 14th. Your kits land on the 10th — tracked, boxed,
+    and sized right. That's the whole point.
+
+vocabulary:
+  use:
+    - kit
+    - drop
+    - restock
+    - print run
+    - ship date
+    - size curve
+    - go-live
+  avoid:
+    - synergy
+    - revolutionize
+    - game-changing
+    - world-class
+    - best-in-class
+
+# Claims that must never appear in shipped copy. Matched case-insensitively
+# on word boundaries by the creative validator (single source of truth).
+bannedClaims:
+  - free
+  - guaranteed
+  - "#1"
+  - never fails
+
+proofStyle: Back every claim with a number, a named source, or a customer ticket.

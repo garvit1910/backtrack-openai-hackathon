@@ -38,3 +38,6 @@ next-env.d.ts
 # local secrets (team API keys)
 env.local
 .env.local
+
+# Person 2: context store working file (embeddings; snapshots context-vN.json are the replay artifacts)
+fixtures/cache/context.json

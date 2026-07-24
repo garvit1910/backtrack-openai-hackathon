@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cl_0",
+    "label": "Shipping delays",
+    "share": 0.37,
+    "trend": 0.74,
+    "revenueAtRisk": 65501,
+    "segmentBreakdown": {
+      "starter": 20,
+      "growth": 19,
+      "enterprise": 35
+    },
+    "exemplarTicketIds": [
+      "tkt_0053",
+      "tkt_0009",
+      "tkt_0022"
+    ],
+    "ticketCount": 74
+  },
+  {
+    "id": "cl_6",
+    "label": "Sizing issues",
+    "share": 0.175,
+    "trend": 0.69,
+    "revenueAtRisk": 23557,
+    "segmentBreakdown": {
+      "starter": 20,
+      "growth": 9,
+      "enterprise": 6
+    },
+    "exemplarTicketIds": [
+      "tkt_0076",
+      "tkt_0058",
+      "tkt_0061"
+    ],
+    "ticketCount": 35
+  },
+  {
+    "id": "cl_3",
+    "label": "Pricing concerns",
+    "share": 0.14,
+    "trend": 1.5,
+    "revenueAtRisk": 18718,
+    "segmentBreakdown": {
+      "starter": 16,
+      "growth": 7,
+      "enterprise": 5
+    },
+    "exemplarTicketIds": [
+      "tkt_0092",
+      "tkt_0112",
+      "tkt_0118"
+    ],
+    "ticketCount": 28
+  },
+  {
+    "id": "cl_2",
+    "label": "Damaged shipments",
+    "share": 0.1,
+    "trend": 0,
+    "revenueAtRisk": 10683,
+    "segmentBreakdown": {
+      "starter": 11,
+      "growth": 8,
+      "enterprise": 1
+    },
+    "exemplarTicketIds": [
+      "tkt_0160",
+      "tkt_0145",
+      "tkt_0158"
+    ],
+    "ticketCount": 20
+  }
+]

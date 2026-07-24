@@ -1,0 +1,17 @@
+{
+  "starter": {
+    "positioning": "Crewkit delivers timely, reliable team kits for every need, even when facing challenges.",
+    "zendeskMacro": "Hi there! We understand that shipping delays can be frustrating, and we're actively working to minimize any impact on your order. Our team is committed to keeping you informed and ensuring your kits arrive on time.",
+    "generatedBy": "llm"
+  },
+  "growth": {
+    "positioning": "Crewkit delivers on-time kits that empower your team.",
+    "zendeskMacro": "We understand that shipping delays can cause frustration. We're actively working to improve our processes, ensuring your kits arrive on time for your next event.",
+    "generatedBy": "llm"
+  },
+  "enterprise": {
+    "positioning": "Crewkit delivers your team's kits on time and right, so you can focus on what really matters.",
+    "zendeskMacro": "We understand that shipping delays can impact your timeline, and we're committed to improving our processes. We're actively working to ensure your kits arrive as scheduled—stay tuned for updates!",
+    "generatedBy": "llm"
+  }
+}
