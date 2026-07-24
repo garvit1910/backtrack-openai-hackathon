@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "tkt_0155",
+    "subject": "Gift boxes arrived in bad shape",
+    "body": "The pallet for order #41426 arrived with the top layer of boxes crushed. About 73 hoodies have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before our customer summit.",
+    "createdAt": "2026-04-24T13:47:48.640Z",
+    "account": {
+      "name": "Orchard Collective",
+      "segment": "starter",
+      "mrr": 83
+    }
+  },
+  {
+    "id": "tkt_0090",
+    "subject": "Sizing on the beanies runs way small",
+    "body": "Before we place the the sales kickoff order: do the beanies run true to size? Last order everyone sized up on advice from your chat widget and then everything was enormous. A simple \"runs small / true / runs large\" flag per product would save us so much churn.",
+    "createdAt": "2026-04-24T15:49:16.557Z",
+    "account": {
+      "name": "Silver Legal",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0091",
+    "subject": "Renewal question: pricing feels high",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while Sendoso is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-04-25T06:03:42.865Z",
+    "account": {
+      "name": "Golden Labs",
+      "segment": "enterprise",
+      "mrr": 1981
+    }
+  },
+  {
+    "id": "tkt_0178",
+    "subject": "Support response times have gotten rough",
+    "body": "Chat says \"typically replies in a few minutes\" and then sits at \"waiting for agent\" until it times out. Tried three times this week. Email took 17 days last month. For what we pay, is there a priority support tier or a named contact we can use?",
+    "createdAt": "2026-04-25T19:06:26.496Z",
+    "account": {
+      "name": "Pioneer Financial",
+      "segment": "enterprise",
+      "mrr": 5218
+    }
+  },
+  {
+    "id": "tkt_0060",
+    "subject": "Confused by your size chart",
+    "body": "Before we place the the new-hire onboarding class order: do the onboarding kits run true to size? Last order everyone sized up on advice from your chat widget and then everything was enormous. A simple \"runs small / true / runs large\" flag per product would save us so much churn.",
+    "createdAt": "2026-04-25T22:52:21.153Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0175",
+    "subject": "Still waiting on an answer re: order #43734",
+    "body": "I opened a ticket about order #43734 9 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-04-26T12:54:11.629Z",
+    "account": {
+      "name": "Vertex Collective",
+      "segment": "growth",
+      "mrr": 561
+    }
+  },
+  {
+    "id": "tkt_0121",
+    "subject": "Refund for order #48700 still pending",
+    "body": "We were charged a restocking fee on an exchange that was your fulfillment error — wrong sizes shipped against a correct order sheet. I have the CSV we submitted. Please reverse the fee and fix whatever mapped those sizes.",
+    "createdAt": "2026-04-27T10:08:54.281Z",
+    "account": {
+      "name": "Lumen Software",
+      "segment": "growth",
+      "mrr": 543
+    }
+  },
+  {
+    "id": "tkt_0128",
+    "subject": "Stuck in the exchange flow",
+    "body": "We were charged a restocking fee on an exchange that was your fulfillment error — wrong sizes shipped against a correct order sheet. I have the CSV we submitted. Please reverse the fee and fix whatever mapped those sizes.",
+    "createdAt": "2026-04-28T05:54:03.983Z",
+    "account": {
+      "name": "Harbor Robotics",
+      "segment": "starter",
+      "mrr": 56
+    }
+  },
+  {
+    "id": "tkt_0190",
+    "subject": "API access for order tracking?",
+    "body": "Uploading the recipient CSV for the the sales kickoff order fails at 80% with a generic error. It's 135 rows, well under the stated limit. Template is unmodified from your download. What are the actual validation rules?",
+    "createdAt": "2026-04-29T01:28:14.353Z",
+    "account": {
+      "name": "Pioneer Software",
+      "segment": "starter",
+      "mrr": 75
+    }
+  },
+  {
+    "id": "tkt_0147",
+    "subject": "Boxes crushed, items scuffed",
+    "body": "The pallet for order #42285 arrived with the top layer of boxes crushed. About 49 beanies have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before the sales kickoff.",
+    "createdAt": "2026-04-29T07:31:56.188Z",
+    "account": {
+      "name": "Lumen Dynamics",
+      "segment": "growth",
+      "mrr": 716
+    }
+  },
+  {
+    "id": "tkt_0105",
+    "subject": "Quote comparison — your pricing vs SwagUp",
+    "body": "The platform fee plus per-item pricing is adding up. SwagUp bundles storage and kitting for free. Am I misreading your pricing page, or are we genuinely paying more for the same thing?",
+    "createdAt": "2026-04-29T23:30:39.795Z",
+    "account": {
+      "name": "Atlas Systems",
+      "segment": "starter",
+      "mrr": 90
+    }
+  },
+  {
+    "id": "tkt_0162",
+    "subject": "Boxes crushed, items scuffed",
+    "body": "Received order #47541 today: outer cartons torn, two boxes open, contents dusty. Carrier says file with the shipper. Your form says contact the carrier. Somebody please own this — we just want 123 replacement units.",
+    "createdAt": "2026-05-01T15:57:49.155Z",
+    "account": {
+      "name": "Orchard Logistics",
+      "segment": "starter",
+      "mrr": 93
+    }
+  },
+  {
+    "id": "tkt_0168",
+    "subject": "Support response times have gotten rough",
+    "body": "I opened a ticket about order #44267 8 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-05-01T20:25:16.113Z",
+    "account": {
+      "name": "Iron Collective",
+      "segment": "enterprise",
+      "mrr": 3368
+    }
+  },
+  {
+    "id": "tkt_0038",
+    "subject": "Shipment delayed again, need ETA before our conference booth at SaaStr",
+    "body": "We keep getting delay notifications with no reason attached. 9 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-05-02T05:47:41.331Z",
+    "account": {
+      "name": "Vertex Dynamics",
+      "segment": "enterprise",
+      "mrr": 5203
+    }
+  },
+  {
+    "id": "tkt_0025",
+    "subject": "Delivery window missed for order #49292",
+    "body": "We ordered quarter-zips with 3 weeks of buffer and they STILL didn't make it in time for our company offsite. 183 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-05-03T04:49:54.208Z",
+    "account": {
+      "name": "Vertex Collective",
+      "segment": "growth",
+      "mrr": 561
+    }
+  },
+  {
+    "id": "tkt_0110",
+    "subject": "Why are we paying more than Custom Ink would charge?",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while Custom Ink is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-05-04T05:30:17.742Z",
+    "account": {
+      "name": "North Partners",
+      "segment": "growth",
+      "mrr": 851
+    }
+  },
+  {
+    "id": "tkt_0042",
+    "subject": "Order #42104 still not delivered — 15 days late",
+    "body": "This is the third email about order #42104. Every reply says \"it will ship this week\" and then nothing moves. It's been 15 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-05-04T10:53:42.490Z",
+    "account": {
+      "name": "Blue Labs",
+      "segment": "growth",
+      "mrr": 685
+    }
+  },
+  {
+    "id": "tkt_0085",
+    "subject": "Sizing on the quarter-zips runs way small",
+    "body": "We collected sizes from 41 employees using the chart on your product page, and roughly a third of the quarter-zips came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-05-04T14:59:30.762Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0164",
+    "subject": "Still waiting on an answer re: order #41299",
+    "body": "Chat says \"typically replies in a few minutes\" and then sits at \"waiting for agent\" until it times out. Tried three times this week. Email took 17 days last month. For what we pay, is there a priority support tier or a named contact we can use?",
+    "createdAt": "2026-05-04T17:14:48.122Z",
+    "account": {
+      "name": "Ridge Labs",
+      "segment": "starter",
+      "mrr": 59
+    }
+  },
+  {
+    "id": "tkt_0167",
+    "subject": "Is anyone reading these?",
+    "body": "I opened a ticket about order #43300 7 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-05-05T11:11:45.831Z",
+    "account": {
+      "name": "Atlas Health",
+      "segment": "starter",
+      "mrr": 90
+    }
+  },
+  {
+    "id": "tkt_0196",
+    "subject": "API access for order tracking?",
+    "body": "Trying to add our office manager as a second admin and the invite email never lands. Can you check whether it's being blocked on your end? Domain is our company domain.",
+    "createdAt": "2026-05-05T22:26:03.157Z",
+    "account": {
+      "name": "Bright Networks",
+      "segment": "growth",
+      "mrr": 345
+    }
+  },
+  {
+    "id": "tkt_0144",
+    "subject": "Gift boxes arrived in bad shape",
+    "body": "Shipment arrived soaked on one side — looks like it sat in rain somewhere in transit. The holiday gift boxes inside mostly survived but all the branded gift boxes are warped. The unboxing IS the product for our use case. How do we claim this?",
+    "createdAt": "2026-05-06T06:39:04.965Z",
+    "account": {
+      "name": "Atlas Ventures",
+      "segment": "starter",
+      "mrr": 59
+    }
+  },
+  {
+    "id": "tkt_0101",
+    "subject": "Quote comparison — your pricing vs Sendoso",
+    "body": "Our procurement ran a comparison and Sendoso quoted the same 199 onboarding kits at about 24% less, shipping included. I like your platform, but I need something to defend this line item in the budget review. Is there flexibility on per-unit pricing at our volume?",
+    "createdAt": "2026-05-06T22:07:44.840Z",
+    "account": {
+      "name": "Harbor Security",
+      "segment": "starter",
+      "mrr": 63
+    }
+  },
+  {
+    "id": "tkt_0163",
+    "subject": "Support response times have gotten rough",
+    "body": "I opened a ticket about order #49272 12 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-05-07T04:32:50.332Z",
+    "account": {
+      "name": "Blue Networks",
+      "segment": "enterprise",
+      "mrr": 1725
+    }
+  },
+  {
+    "id": "tkt_0156",
+    "subject": "Gift boxes arrived in bad shape",
+    "body": "Shipment arrived soaked on one side — looks like it sat in rain somewhere in transit. The tees inside mostly survived but all the branded gift boxes are warped. The unboxing IS the product for our use case. How do we claim this?",
+    "createdAt": "2026-05-07T22:09:45.923Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0059",
+    "subject": "Need help picking sizes for mixed team",
+    "body": "Before we place the our conference booth at SaaStr order: do the water bottles run true to size? Last order everyone sized up on advice from your chat widget and then everything was enormous. A simple \"runs small / true / runs large\" flag per product would save us so much churn.",
+    "createdAt": "2026-05-08T12:29:48.161Z",
+    "account": {
+      "name": "Delta Systems",
+      "segment": "enterprise",
+      "mrr": 3056
+    }
+  },
+  {
+    "id": "tkt_0068",
+    "subject": "Confused by your size chart",
+    "body": "We have 16 people between XS and 4XL and your size chart stops at 2XL for half the catalog. What are the actual options for extended sizes? People notice when the merch doesn't come in their size — it's the opposite of inclusive.",
+    "createdAt": "2026-05-08T16:13:49.827Z",
+    "account": {
+      "name": "Blue Partners",
+      "segment": "enterprise",
+      "mrr": 2511
+    }
+  },
+  {
+    "id": "tkt_0131",
+    "subject": "Refund for order #41774 still pending",
+    "body": "Trying to exchange 223 hoodies from order #41774 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-05-08T19:06:38.063Z",
+    "account": {
+      "name": "Vertex Dynamics",
+      "segment": "enterprise",
+      "mrr": 5203
+    }
+  },
+  {
+    "id": "tkt_0055",
+    "subject": "Delivery window missed for order #43273",
+    "body": "The tote bags arrived two weeks late and half our remote folks' addresses now show \"return to sender\" because they'd already moved apartments. Late delivery isn't just late for us, it cascades. We need reliable dates more than we need discounts.",
+    "createdAt": "2026-05-09T08:31:00.484Z",
+    "account": {
+      "name": "Cedar Partners",
+      "segment": "enterprise",
+      "mrr": 5964
+    }
+  },
+  {
+    "id": "tkt_0185",
+    "subject": "Invoice question for May",
+    "body": "Trying to add our office manager as a second admin and the invite email never lands. Can you check whether it's being blocked on your end? Domain is our company domain.",
+    "createdAt": "2026-05-09T11:13:47.614Z",
+    "account": {
+      "name": "Summit Consulting",
+      "segment": "enterprise",
+      "mrr": 3917
+    }
+  },
+  {
+    "id": "tkt_0160",
+    "subject": "Order #42384 arrived damaged",
+    "body": "Every box in this order was packed with zero padding — holiday gift boxes just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-05-09T19:02:45.032Z",
+    "account": {
+      "name": "Silver Consulting",
+      "segment": "starter",
+      "mrr": 76
+    }
+  },
+  {
+    "id": "tkt_0127",
+    "subject": "Exchange process is way too complicated",
+    "body": "We were charged a restocking fee on an exchange that was your fulfillment error — wrong sizes shipped against a correct order sheet. I have the CSV we submitted. Please reverse the fee and fix whatever mapped those sizes.",
+    "createdAt": "2026-05-09T23:50:30.003Z",
+    "account": {
+      "name": "Atlas Legal",
+      "segment": "growth",
+      "mrr": 579
+    }
+  },
+  {
+    "id": "tkt_0097",
+    "subject": "Got a cheaper quote elsewhere",
+    "body": "Being transparent: we have a signed quote from SwagUp for the the sales kickoff order at 20% below yours. I'd rather not migrate the whole team store, but the delta is hard to ignore. Can you match or get close?",
+    "createdAt": "2026-05-10T16:32:27.691Z",
+    "account": {
+      "name": "Atlas Software",
+      "segment": "starter",
+      "mrr": 91
+    }
+  },
+  {
+    "id": "tkt_0161",
+    "subject": "Boxes crushed, items scuffed",
+    "body": "Every box in this order was packed with zero padding — caps just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-05-11T00:37:50.735Z",
+    "account": {
+      "name": "Orchard Collective",
+      "segment": "starter",
+      "mrr": 83
+    }
+  },
+  {
+    "id": "tkt_0149",
+    "subject": "Water-damaged shipment",
+    "body": "The pallet for order #44443 arrived with the top layer of boxes crushed. About 135 tote bags have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before the new-hire onboarding class.",
+    "createdAt": "2026-05-11T07:52:54.681Z",
+    "account": {
+      "name": "North Security",
+      "segment": "growth",
+      "mrr": 487
+    }
+  },
+  {
+    "id": "tkt_0193",
+    "subject": "Invoice question for April",
+    "body": "Feature request: a Slack webhook that pings us when a kit ships. We're building spreadsheets by hand to track this today. Happy to beta test anything.",
+    "createdAt": "2026-05-12T22:14:45.780Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0010",
+    "subject": "Kit arrival date slipped again",
+    "body": "Hi team, order #46054 (beanies for the sales kickoff) was promised on the 9th and it's now 16 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-05-12T22:58:19.343Z",
+    "account": {
+      "name": "Delta Robotics",
+      "segment": "growth",
+      "mrr": 375
+    }
+  },
+  {
+    "id": "tkt_0096",
+    "subject": "Renewal question: pricing feels high",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while SwagUp is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-05-13T08:50:05.969Z",
+    "account": {
+      "name": "Iron Ventures",
+      "segment": "starter",
+      "mrr": 86
+    }
+  },
+  {
+    "id": "tkt_0189",
+    "subject": "Invoice question for May",
+    "body": "No issue here — just wanted to say the tees for our conference booth at SaaStr were the best merch we've ever done. The team keeps asking when the next drop is. Kudos to whoever runs your design review.",
+    "createdAt": "2026-05-13T21:44:58.652Z",
+    "account": {
+      "name": "Atlas Logistics",
+      "segment": "starter",
+      "mrr": 83
+    }
+  },
+  {
+    "id": "tkt_0094",
+    "subject": "Budget review — need pricing justification",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while Printfection is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-05-14T01:04:04.532Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0170",
+    "subject": "Still waiting on an answer re: order #42119",
+    "body": "Chat says \"typically replies in a few minutes\" and then sits at \"waiting for agent\" until it times out. Tried three times this week. Email took 13 days last month. For what we pay, is there a priority support tier or a named contact we can use?",
+    "createdAt": "2026-05-14T04:10:17.796Z",
+    "account": {
+      "name": "North Security",
+      "segment": "growth",
+      "mrr": 487
+    }
+  },
+  {
+    "id": "tkt_0031",
+    "subject": "Third delay notice on the same order",
+    "body": "This is the third email about order #49140. Every reply says \"it will ship this week\" and then nothing moves. It's been 5 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-05-14T07:05:36.051Z",
+    "account": {
+      "name": "Bright Security",
+      "segment": "enterprise",
+      "mrr": 4426
+    }
+  },
+  {
+    "id": "tkt_0014",
+    "subject": "Tracking hasn't updated in 4 days",
+    "body": "We keep getting delay notifications with no reason attached. 4 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-05-16T08:54:19.680Z",
+    "account": {
+      "name": "Vertex Labs",
+      "segment": "growth",
+      "mrr": 465
+    }
+  },
+  {
+    "id": "tkt_0174",
+    "subject": "Support response times have gotten rough",
+    "body": "Following up for the third time. The question is simple — can we change the ship-to address on order #44595? Every day this sits unanswered the change gets harder to make. Please just reply either way.",
+    "createdAt": "2026-05-17T01:20:29.489Z",
+    "account": {
+      "name": "Vertex Collective",
+      "segment": "growth",
+      "mrr": 561
+    }
+  },
+  {
+    "id": "tkt_0047",
+    "subject": "Kit arrival date slipped again",
+    "body": "Your dashboard says delivered, our office says otherwise. Nothing arrived at the dock and the carrier says they never received the package from you. 76 new hires start Monday and their welcome kits are somewhere in limbo. Please escalate.",
+    "createdAt": "2026-05-17T03:24:55.174Z",
+    "account": {
+      "name": "Ridge Security",
+      "segment": "starter",
+      "mrr": 87
+    }
+  },
+  {
+    "id": "tkt_0053",
+    "subject": "Third delay notice on the same order",
+    "body": "Hi team, order #47466 (tees for the new-hire onboarding class) was promised on the 14th and it's now 14 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-05-17T07:41:08.312Z",
+    "account": {
+      "name": "Blue Media",
+      "segment": "starter",
+      "mrr": 59
+    }
+  },
+  {
+    "id": "tkt_0180",
+    "subject": "Invoice question for July",
+    "body": "Uploading the recipient CSV for the our conference booth at SaaStr order fails at 80% with a generic error. It's 201 rows, well under the stated limit. Template is unmodified from your download. What are the actual validation rules?",
+    "createdAt": "2026-05-18T00:57:51.811Z",
+    "account": {
+      "name": "Atlas Ventures",
+      "segment": "starter",
+      "mrr": 59
+    }
+  },
+  {
+    "id": "tkt_0058",
+    "subject": "Need help picking sizes for mixed team",
+    "body": "We collected sizes from 84 employees using the chart on your product page, and roughly a third of the crewnecks came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-05-18T18:29:26.263Z",
+    "account": {
+      "name": "Harbor Security",
+      "segment": "starter",
+      "mrr": 63
+    }
+  },
+  {
+    "id": "tkt_0092",
+    "subject": "Quote comparison — your pricing vs Printfection",
+    "body": "Every quarter this gets harder to justify. Your quarter-zips are nicer, sure, but at 31% over Printfection \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-05-19T07:03:08.031Z",
+    "account": {
+      "name": "Vertex Collective",
+      "segment": "growth",
+      "mrr": 561
+    }
+  },
+  {
+    "id": "tkt_0145",
+    "subject": "Water-damaged shipment",
+    "body": "Every box in this order was packed with zero padding — hoodies just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-05-19T14:46:25.474Z",
+    "account": {
+      "name": "Delta Analytics",
+      "segment": "starter",
+      "mrr": 77
+    }
+  },
+  {
+    "id": "tkt_0148",
+    "subject": "Water-damaged shipment",
+    "body": "The pallet for order #46642 arrived with the top layer of boxes crushed. About 203 caps have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before the sales kickoff.",
+    "createdAt": "2026-05-20T08:50:57.736Z",
+    "account": {
+      "name": "Orchard Logistics",
+      "segment": "starter",
+      "mrr": 93
+    }
+  },
+  {
+    "id": "tkt_0004",
+    "subject": "Where is our tote bags order?",
+    "body": "We ordered tote bags with 3 weeks of buffer and they STILL didn't make it in time for our Q3 all-hands. 217 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-05-20T13:28:07.265Z",
+    "account": {
+      "name": "Nova Foods",
+      "segment": "enterprise",
+      "mrr": 3303
+    }
+  },
+  {
+    "id": "tkt_0069",
+    "subject": "Half the team's water bottles don't fit",
+    "body": "We have 233 people between XS and 4XL and your size chart stops at 2XL for half the catalog. What are the actual options for extended sizes? People notice when the merch doesn't come in their size — it's the opposite of inclusive.",
+    "createdAt": "2026-05-21T11:13:42.508Z",
+    "account": {
+      "name": "Beacon Labs",
+      "segment": "starter",
+      "mrr": 50
+    }
+  },
+  {
+    "id": "tkt_0086",
+    "subject": "Confused by your size chart",
+    "body": "Support told us the onboarding kits run large, the website says true to size, and the box that arrived says otherwise. Whom do we believe? Genuinely asking for guidance, we like the quality but sizing is a coin flip.",
+    "createdAt": "2026-05-22T00:16:57.479Z",
+    "account": {
+      "name": "Iron Partners",
+      "segment": "growth",
+      "mrr": 366
+    }
+  },
+  {
+    "id": "tkt_0129",
+    "subject": "Return label link is broken",
+    "body": "The return label email never arrived (checked spam), and the \"resend label\" button 404s. Meanwhile the return window is counting down. Can someone generate labels manually and pause the clock on order #46564?",
+    "createdAt": "2026-05-22T08:06:47.437Z",
+    "account": {
+      "name": "Atlas Software",
+      "segment": "starter",
+      "mrr": 91
+    }
+  },
+  {
+    "id": "tkt_0172",
+    "subject": "Support response times have gotten rough",
+    "body": "I opened a ticket about order #48747 9 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-05-22T13:10:37.275Z",
+    "account": {
+      "name": "Blue Labs",
+      "segment": "growth",
+      "mrr": 685
+    }
+  },
+  {
+    "id": "tkt_0016",
+    "subject": "URGENT: tote bags for our customer summit not arrived",
+    "body": "Your dashboard says delivered, our office says otherwise. Nothing arrived at the dock and the carrier says they never received the package from you. 190 new hires start Monday and their welcome kits are somewhere in limbo. Please escalate.",
+    "createdAt": "2026-05-23T01:46:51.663Z",
+    "account": {
+      "name": "Summit Consulting",
+      "segment": "enterprise",
+      "mrr": 3917
+    }
+  },
+  {
+    "id": "tkt_0181",
+    "subject": "SSO setup for our team store",
+    "body": "Uploading the recipient CSV for the our conference booth at SaaStr order fails at 80% with a generic error. It's 79 rows, well under the stated limit. Template is unmodified from your download. What are the actual validation rules?",
+    "createdAt": "2026-05-23T02:17:27.076Z",
+    "account": {
+      "name": "Pioneer Studios",
+      "segment": "growth",
+      "mrr": 717
+    }
+  },
+  {
+    "id": "tkt_0195",
+    "subject": "Invoice question for July",
+    "body": "Exploring more sustainable options for next quarter's kits — do you carry recycled-fabric tote bags, and is there carbon-neutral shipping? Our ESG report wants specifics.",
+    "createdAt": "2026-05-23T03:51:02.183Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0066",
+    "subject": "Fit question before we reorder",
+    "body": "Sam here from the people team. Your unisex sizing is baffling — the medium fits like a small and the size chart doesn't say whether it's US or EU sizing. Ordering for a mixed team of 123, we really need a straightforward fit guide.",
+    "createdAt": "2026-05-24T09:52:22.063Z",
+    "account": {
+      "name": "Atlas Financial",
+      "segment": "growth",
+      "mrr": 309
+    }
+  },
+  {
+    "id": "tkt_0171",
+    "subject": "No reply on ticket for 19 days",
+    "body": "I opened a ticket about order #44080 19 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-05-25T15:00:09.946Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0078",
+    "subject": "Sizing on the hoodies runs way small",
+    "body": "The hoodies we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-05-26T08:02:04.198Z",
+    "account": {
+      "name": "Vertex Labs",
+      "segment": "growth",
+      "mrr": 465
+    }
+  },
+  {
+    "id": "tkt_0191",
+    "subject": "Feature request: Slack notifications for kit shipments",
+    "body": "Feature request: a Slack webhook that pings us when a kit ships. We're building spreadsheets by hand to track this today. Happy to beta test anything.",
+    "createdAt": "2026-05-26T12:16:20.284Z",
+    "account": {
+      "name": "Iron Media",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0166",
+    "subject": "Escalation path?",
+    "body": "I opened a ticket about order #41140 6 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-05-27T09:29:44.623Z",
+    "account": {
+      "name": "Iron Partners",
+      "segment": "growth",
+      "mrr": 366
+    }
+  },
+  {
+    "id": "tkt_0048",
+    "subject": "Order #43074 still not delivered — 10 days late",
+    "body": "This is the third email about order #43074. Every reply says \"it will ship this week\" and then nothing moves. It's been 10 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-05-28T17:41:30.857Z",
+    "account": {
+      "name": "Granite Health",
+      "segment": "enterprise",
+      "mrr": 3013
+    }
+  },
+  {
+    "id": "tkt_0029",
+    "subject": "URGENT: water bottles for our Q3 all-hands not arrived",
+    "body": "This is the third email about order #45357. Every reply says \"it will ship this week\" and then nothing moves. It's been 6 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-05-29T10:32:49.995Z",
+    "account": {
+      "name": "Golden Labs",
+      "segment": "enterprise",
+      "mrr": 1981
+    }
+  },
+  {
+    "id": "tkt_0197",
+    "subject": "CSV upload keeps failing",
+    "body": "Setting up SSO for the team store: does the SAML integration support Okta groups for role mapping, or is it flat access? Docs mention Okta but not groups. Happy to hop on a call with our IT admin.",
+    "createdAt": "2026-05-30T19:47:42.451Z",
+    "account": {
+      "name": "Cedar Studios",
+      "segment": "growth",
+      "mrr": 712
+    }
+  },
+  {
+    "id": "tkt_0183",
+    "subject": "CSV upload keeps failing",
+    "body": "Quick billing question — the April invoice shows two platform-fee line items. Is one a proration from the seat change? Just need clarity for accounting, no urgency.",
+    "createdAt": "2026-06-01T07:11:28.384Z",
+    "account": {
+      "name": "Iron Partners",
+      "segment": "growth",
+      "mrr": 366
+    }
+  },
+  {
+    "id": "tkt_0043",
+    "subject": "Third delay notice on the same order",
+    "body": "We ordered holiday gift boxes with 3 weeks of buffer and they STILL didn't make it in time for our Q3 all-hands. 25 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-06-01T13:16:29.922Z",
+    "account": {
+      "name": "Cedar Partners",
+      "segment": "enterprise",
+      "mrr": 5964
+    }
+  },
+  {
+    "id": "tkt_0067",
+    "subject": "Which size chart applies to order #44404?",
+    "body": "We have 75 people between XS and 4XL and your size chart stops at 2XL for half the catalog. What are the actual options for extended sizes? People notice when the merch doesn't come in their size — it's the opposite of inclusive.",
+    "createdAt": "2026-06-02T09:46:29.320Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0057",
+    "subject": "Fit question before we reorder",
+    "body": "Before we place the our customer summit order: do the onboarding kits run true to size? Last order everyone sized up on advice from your chat widget and then everything was enormous. A simple \"runs small / true / runs large\" flag per product would save us so much churn.",
+    "createdAt": "2026-06-03T07:47:45.805Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0071",
+    "subject": "Sizing on the onboarding kits runs way small",
+    "body": "We collected sizes from 224 employees using the chart on your product page, and roughly a third of the onboarding kits came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-06-04T04:13:40.769Z",
+    "account": {
+      "name": "Silver Legal",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0123",
+    "subject": "Stuck in the exchange flow",
+    "body": "Your policy says returns accepted on unworn items, but the portal rejected our request because the order contains printed merch. Nobody said customized items were final sale at checkout. That needs to be much clearer before payment, not after.",
+    "createdAt": "2026-06-04T15:29:51.585Z",
+    "account": {
+      "name": "Blue Collective",
+      "segment": "growth",
+      "mrr": 520
+    }
+  },
+  {
+    "id": "tkt_0125",
+    "subject": "Return window question",
+    "body": "Your policy says returns accepted on unworn items, but the portal rejected our request because the order contains printed merch. Nobody said customized items were final sale at checkout. That needs to be much clearer before payment, not after.",
+    "createdAt": "2026-06-05T10:27:29.029Z",
+    "account": {
+      "name": "Copper Studios",
+      "segment": "starter",
+      "mrr": 73
+    }
+  },
+  {
+    "id": "tkt_0003",
+    "subject": "URGENT: crewnecks for the new-hire onboarding class not arrived",
+    "body": "We ordered crewnecks with 3 weeks of buffer and they STILL didn't make it in time for the new-hire onboarding class. 40 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-06-06T06:21:21.728Z",
+    "account": {
+      "name": "Blue Partners",
+      "segment": "enterprise",
+      "mrr": 2511
+    }
+  },
+  {
+    "id": "tkt_0130",
+    "subject": "Return label link is broken",
+    "body": "Trying to exchange 123 quarter-zips from order #49801 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-06-06T06:59:23.146Z",
+    "account": {
+      "name": "Copper Studios",
+      "segment": "starter",
+      "mrr": 73
+    }
+  },
+  {
+    "id": "tkt_0062",
+    "subject": "Which size chart applies to order #47200?",
+    "body": "The tees we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-06-07T10:19:40.295Z",
+    "account": {
+      "name": "Atlas Legal",
+      "segment": "growth",
+      "mrr": 579
+    }
+  },
+  {
+    "id": "tkt_0136",
+    "subject": "How do I return items from a bulk order?",
+    "body": "Trying to exchange 215 hoodies from order #45073 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-06-08T11:47:20.201Z",
+    "account": {
+      "name": "Ridge Financial",
+      "segment": "starter",
+      "mrr": 69
+    }
+  },
+  {
+    "id": "tkt_0022",
+    "subject": "Order #40356 still not delivered — 17 days late",
+    "body": "Honestly at this point I just need a real ETA. The order for our Q3 all-hands has been \"in production\" for 17 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-06-08T17:48:44.724Z",
+    "account": {
+      "name": "Golden Labs",
+      "segment": "enterprise",
+      "mrr": 1981
+    }
+  },
+  {
+    "id": "tkt_0117",
+    "subject": "Got a cheaper quote elsewhere",
+    "body": "Every quarter this gets harder to justify. Your tees are nicer, sure, but at 18% over Printfection \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-06-08T23:27:39.269Z",
+    "account": {
+      "name": "Vertex Media",
+      "segment": "starter",
+      "mrr": 84
+    }
+  },
+  {
+    "id": "tkt_0089",
+    "subject": "Fit question before we reorder",
+    "body": "Before we place the the sales kickoff order: do the onboarding kits run true to size? Last order everyone sized up on advice from your chat widget and then everything was enormous. A simple \"runs small / true / runs large\" flag per product would save us so much churn.",
+    "createdAt": "2026-06-09T06:01:09.824Z",
+    "account": {
+      "name": "Blue Labs",
+      "segment": "growth",
+      "mrr": 685
+    }
+  },
+  {
+    "id": "tkt_0138",
+    "subject": "How do I return items from a bulk order?",
+    "body": "Trying to exchange 72 onboarding kits from order #44420 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-06-09T10:25:24.282Z",
+    "account": {
+      "name": "Atlas Studios",
+      "segment": "growth",
+      "mrr": 515
+    }
+  },
+  {
+    "id": "tkt_0126",
+    "subject": "Exchange process is way too complicated",
+    "body": "It's been 19 days since UPS shows your warehouse received our return and the refund still says processing. Finance closes the books Friday. What's the actual refund SLA?",
+    "createdAt": "2026-06-09T19:32:30.702Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0009",
+    "subject": "Third delay notice on the same order",
+    "body": "Hi team, order #43302 (onboarding kits for the sales kickoff) was promised on the 24th and it's now 14 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-06-10T09:08:05.328Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0018",
+    "subject": "Order #48713 still not delivered — 11 days late",
+    "body": "Honestly at this point I just need a real ETA. The order for the new-hire onboarding class has been \"in production\" for 11 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-06-10T17:02:17.151Z",
+    "account": {
+      "name": "Lumen Ventures",
+      "segment": "enterprise",
+      "mrr": 2740
+    }
+  },
+  {
+    "id": "tkt_0137",
+    "subject": "Return window question",
+    "body": "The return label email never arrived (checked spam), and the \"resend label\" button 404s. Meanwhile the return window is counting down. Can someone generate labels manually and pause the clock on order #48040?",
+    "createdAt": "2026-06-11T06:36:17.737Z",
+    "account": {
+      "name": "Atlas Studios",
+      "segment": "growth",
+      "mrr": 515
+    }
+  },
+  {
+    "id": "tkt_0159",
+    "subject": "Gift boxes arrived in bad shape",
+    "body": "The pallet for order #45241 arrived with the top layer of boxes crushed. About 133 hoodies have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before our conference booth at SaaStr.",
+    "createdAt": "2026-06-11T23:32:53.420Z",
+    "account": {
+      "name": "Lumen Software",
+      "segment": "growth",
+      "mrr": 543
+    }
+  },
+  {
+    "id": "tkt_0146",
+    "subject": "Water-damaged shipment",
+    "body": "Shipment arrived soaked on one side — looks like it sat in rain somewhere in transit. The crewnecks inside mostly survived but all the branded gift boxes are warped. The unboxing IS the product for our use case. How do we claim this?",
+    "createdAt": "2026-06-12T14:51:15.482Z",
+    "account": {
+      "name": "Orchard Media",
+      "segment": "growth",
+      "mrr": 809
+    }
+  },
+  {
+    "id": "tkt_0182",
+    "subject": "Invoice question for June",
+    "body": "No issue here — just wanted to say the caps for our Q3 all-hands were the best merch we've ever done. The team keeps asking when the next drop is. Kudos to whoever runs your design review.",
+    "createdAt": "2026-06-13T04:06:55.070Z",
+    "account": {
+      "name": "Granite Health",
+      "segment": "enterprise",
+      "mrr": 3013
+    }
+  },
+  {
+    "id": "tkt_0152",
+    "subject": "Damaged items in bulk order",
+    "body": "Every box in this order was packed with zero padding — caps just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-06-14T01:18:57.463Z",
+    "account": {
+      "name": "Atlas Studios",
+      "segment": "growth",
+      "mrr": 515
+    }
+  },
+  {
+    "id": "tkt_0041",
+    "subject": "Third delay notice on the same order",
+    "body": "This is the third email about order #46053. Every reply says \"it will ship this week\" and then nothing moves. It's been 4 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-06-14T03:22:57.024Z",
+    "account": {
+      "name": "Pioneer Financial",
+      "segment": "enterprise",
+      "mrr": 5218
+    }
+  },
+  {
+    "id": "tkt_0061",
+    "subject": "Confused by your size chart",
+    "body": "The caps we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-06-14T11:53:41.571Z",
+    "account": {
+      "name": "Cedar Studios",
+      "segment": "growth",
+      "mrr": 712
+    }
+  },
+  {
+    "id": "tkt_0017",
+    "subject": "Third delay notice on the same order",
+    "body": "Your dashboard says delivered, our office says otherwise. Nothing arrived at the dock and the carrier says they never received the package from you. 24 new hires start Monday and their welcome kits are somewhere in limbo. Please escalate.",
+    "createdAt": "2026-06-14T15:47:10.757Z",
+    "account": {
+      "name": "Granite Health",
+      "segment": "enterprise",
+      "mrr": 3013
+    }
+  },
+  {
+    "id": "tkt_0028",
+    "subject": "URGENT: holiday gift boxes for our Q3 all-hands not arrived",
+    "body": "Hi team, order #47340 (holiday gift boxes for our Q3 all-hands) was promised on the 5th and it's now 16 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-06-14T23:34:06.144Z",
+    "account": {
+      "name": "Iron Collective",
+      "segment": "enterprise",
+      "mrr": 3368
+    }
+  },
+  {
+    "id": "tkt_0012",
+    "subject": "Third delay notice on the same order",
+    "body": "Honestly at this point I just need a real ETA. The order for the sales kickoff has been \"in production\" for 4 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-06-15T14:11:02.724Z",
+    "account": {
+      "name": "Golden Dynamics",
+      "segment": "enterprise",
+      "mrr": 5908
+    }
+  },
+  {
+    "id": "tkt_0100",
+    "subject": "Why are we paying more than Printfection would charge?",
+    "body": "The platform fee plus per-item pricing is adding up. Printfection bundles storage and kitting for free. Am I misreading your pricing page, or are we genuinely paying more for the same thing?",
+    "createdAt": "2026-06-15T19:07:02.243Z",
+    "account": {
+      "name": "Cedar Studios",
+      "segment": "growth",
+      "mrr": 712
+    }
+  },
+  {
+    "id": "tkt_0035",
+    "subject": "Delivery window missed for order #45189",
+    "body": "Your dashboard says delivered, our office says otherwise. Nothing arrived at the dock and the carrier says they never received the package from you. 84 new hires start Monday and their welcome kits are somewhere in limbo. Please escalate.",
+    "createdAt": "2026-06-16T03:27:37.265Z",
+    "account": {
+      "name": "Bright Networks",
+      "segment": "growth",
+      "mrr": 345
+    }
+  },
+  {
+    "id": "tkt_0192",
+    "subject": "CSV upload keeps failing",
+    "body": "Feature request: a Slack webhook that pings us when a kit ships. We're building spreadsheets by hand to track this today. Happy to beta test anything.",
+    "createdAt": "2026-06-16T05:05:39.096Z",
+    "account": {
+      "name": "Golden Labs",
+      "segment": "enterprise",
+      "mrr": 1981
+    }
+  },
+  {
+    "id": "tkt_0046",
+    "subject": "Shipment delayed again, need ETA before our company offsite",
+    "body": "Honestly at this point I just need a real ETA. The order for our company offsite has been \"in production\" for 19 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-06-16T11:12:04.805Z",
+    "account": {
+      "name": "Blue Partners",
+      "segment": "enterprise",
+      "mrr": 2511
+    }
+  },
+  {
+    "id": "tkt_0093",
+    "subject": "Got a cheaper quote elsewhere",
+    "body": "Being transparent: we have a signed quote from Printfection for the our Q3 all-hands order at 26% below yours. I'd rather not migrate the whole team store, but the delta is hard to ignore. Can you match or get close?",
+    "createdAt": "2026-06-17T03:41:09.670Z",
+    "account": {
+      "name": "Vertex Dynamics",
+      "segment": "enterprise",
+      "mrr": 5203
+    }
+  },
+  {
+    "id": "tkt_0111",
+    "subject": "Quote comparison — your pricing vs SwagUp",
+    "body": "Being transparent: we have a signed quote from SwagUp for the our Q3 all-hands order at 12% below yours. I'd rather not migrate the whole team store, but the delta is hard to ignore. Can you match or get close?",
+    "createdAt": "2026-06-17T05:03:27.599Z",
+    "account": {
+      "name": "Orchard Media",
+      "segment": "growth",
+      "mrr": 809
+    }
+  },
+  {
+    "id": "tkt_0184",
+    "subject": "CSV upload keeps failing",
+    "body": "Trying to add our office manager as a second admin and the invite email never lands. Can you check whether it's being blocked on your end? Domain is our company domain.",
+    "createdAt": "2026-06-17T11:41:20.982Z",
+    "account": {
+      "name": "Lumen Ventures",
+      "segment": "enterprise",
+      "mrr": 2740
+    }
+  },
+  {
+    "id": "tkt_0080",
+    "subject": "Size guide doesn't match what arrived",
+    "body": "Support told us the quarter-zips run large, the website says true to size, and the box that arrived says otherwise. Whom do we believe? Genuinely asking for guidance, we like the quality but sizing is a coin flip.",
+    "createdAt": "2026-06-18T03:34:47.447Z",
+    "account": {
+      "name": "Lumen Security",
+      "segment": "starter",
+      "mrr": 96
+    }
+  },
+  {
+    "id": "tkt_0179",
+    "subject": "CSV upload keeps failing",
+    "body": "Feature request: a Slack webhook that pings us when a kit ships. We're building spreadsheets by hand to track this today. Happy to beta test anything.",
+    "createdAt": "2026-06-19T07:16:52.744Z",
+    "account": {
+      "name": "Cedar Ventures",
+      "segment": "growth",
+      "mrr": 333
+    }
+  },
+  {
+    "id": "tkt_0186",
+    "subject": "SSO setup for our team store",
+    "body": "Exploring more sustainable options for next quarter's kits — do you carry recycled-fabric caps, and is there carbon-neutral shipping? Our ESG report wants specifics.",
+    "createdAt": "2026-06-20T00:14:43.465Z",
+    "account": {
+      "name": "Silver Consulting",
+      "segment": "starter",
+      "mrr": 76
+    }
+  },
+  {
+    "id": "tkt_0074",
+    "subject": "Half the team's tote bags don't fit",
+    "body": "Chris here from the people team. Your unisex sizing is baffling — the medium fits like a small and the size chart doesn't say whether it's US or EU sizing. Ordering for a mixed team of 182, we really need a straightforward fit guide.",
+    "createdAt": "2026-06-20T02:02:38.783Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0044",
+    "subject": "Delivery window missed for order #43673",
+    "body": "Hi team, order #43673 (caps for our 10-year anniversary party) was promised on the 11th and it's now 6 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-06-20T04:31:45.070Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0132",
+    "subject": "Return label link is broken",
+    "body": "The return label email never arrived (checked spam), and the \"resend label\" button 404s. Meanwhile the return window is counting down. Can someone generate labels manually and pause the clock on order #41121?",
+    "createdAt": "2026-06-20T04:44:44.305Z",
+    "account": {
+      "name": "North Partners",
+      "segment": "growth",
+      "mrr": 851
+    }
+  },
+  {
+    "id": "tkt_0120",
+    "subject": "Return window question",
+    "body": "It's been 10 days since UPS shows your warehouse received our return and the refund still says processing. Finance closes the books Friday. What's the actual refund SLA?",
+    "createdAt": "2026-06-20T05:06:45.282Z",
+    "account": {
+      "name": "Ridge Studios",
+      "segment": "starter",
+      "mrr": 68
+    }
+  },
+  {
+    "id": "tkt_0052",
+    "subject": "Shipment delayed again, need ETA before our Q3 all-hands",
+    "body": "Hi team, order #49309 (tees for our Q3 all-hands) was promised on the 9th and it's now 7 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-06-20T12:44:37.644Z",
+    "account": {
+      "name": "Blue Networks",
+      "segment": "enterprise",
+      "mrr": 1725
+    }
+  },
+  {
+    "id": "tkt_0150",
+    "subject": "Order #46732 arrived damaged",
+    "body": "The pallet for order #46732 arrived with the top layer of boxes crushed. About 152 quarter-zips have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before the new-hire onboarding class.",
+    "createdAt": "2026-06-20T14:47:58.211Z",
+    "account": {
+      "name": "Ridge Security",
+      "segment": "starter",
+      "mrr": 87
+    }
+  },
+  {
+    "id": "tkt_0081",
+    "subject": "Sizing on the onboarding kits runs way small",
+    "body": "The onboarding kits we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-06-20T16:51:50.994Z",
+    "account": {
+      "name": "Atlas Software",
+      "segment": "starter",
+      "mrr": 91
+    }
+  },
+  {
+    "id": "tkt_0088",
+    "subject": "Confused by your size chart",
+    "body": "Marcus here from the people team. Your unisex sizing is baffling — the medium fits like a small and the size chart doesn't say whether it's US or EU sizing. Ordering for a mixed team of 201, we really need a straightforward fit guide.",
+    "createdAt": "2026-06-20T21:30:48.941Z",
+    "account": {
+      "name": "Lumen Dynamics",
+      "segment": "growth",
+      "mrr": 716
+    }
+  },
+  {
+    "id": "tkt_0026",
+    "subject": "Third delay notice on the same order",
+    "body": "Hey — not angry, just planning. Order #47762 shows a revised delivery of the 26th, which is after our customer summit. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-06-20T22:48:14.302Z",
+    "account": {
+      "name": "Orchard Logistics",
+      "segment": "starter",
+      "mrr": 93
+    }
+  },
+  {
+    "id": "tkt_0049",
+    "subject": "Where is our onboarding kits order?",
+    "body": "The onboarding kits arrived two weeks late and half our remote folks' addresses now show \"return to sender\" because they'd already moved apartments. Late delivery isn't just late for us, it cascades. We need reliable dates more than we need discounts.",
+    "createdAt": "2026-06-21T01:13:02.069Z",
+    "account": {
+      "name": "Summit Consulting",
+      "segment": "enterprise",
+      "mrr": 3917
+    }
+  },
+  {
+    "id": "tkt_0165",
+    "subject": "Still waiting on an answer re: order #45259",
+    "body": "Chat says \"typically replies in a few minutes\" and then sits at \"waiting for agent\" until it times out. Tried three times this week. Email took 5 days last month. For what we pay, is there a priority support tier or a named contact we can use?",
+    "createdAt": "2026-06-21T21:36:21.643Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0023",
+    "subject": "Where is our quarter-zips order?",
+    "body": "Hey — not angry, just planning. Order #46903 shows a revised delivery of the 6th, which is after our customer summit. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-06-22T03:56:02.213Z",
+    "account": {
+      "name": "Delta Logistics",
+      "segment": "growth",
+      "mrr": 431
+    }
+  },
+  {
+    "id": "tkt_0157",
+    "subject": "Water-damaged shipment",
+    "body": "Shipment arrived soaked on one side — looks like it sat in rain somewhere in transit. The hoodies inside mostly survived but all the branded gift boxes are warped. The unboxing IS the product for our use case. How do we claim this?",
+    "createdAt": "2026-06-22T17:15:57.143Z",
+    "account": {
+      "name": "North Partners",
+      "segment": "growth",
+      "mrr": 851
+    }
+  },
+  {
+    "id": "tkt_0098",
+    "subject": "Why are we paying more than Custom Ink would charge?",
+    "body": "Being transparent: we have a signed quote from Custom Ink for the our company offsite order at 21% below yours. I'd rather not migrate the whole team store, but the delta is hard to ignore. Can you match or get close?",
+    "createdAt": "2026-06-24T15:07:05.140Z",
+    "account": {
+      "name": "Delta Systems",
+      "segment": "enterprise",
+      "mrr": 3056
+    }
+  },
+  {
+    "id": "tkt_0024",
+    "subject": "Third delay notice on the same order",
+    "body": "This is the third email about order #46717. Every reply says \"it will ship this week\" and then nothing moves. It's been 7 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-06-24T20:28:09.408Z",
+    "account": {
+      "name": "Granite Health",
+      "segment": "enterprise",
+      "mrr": 3013
+    }
+  },
+  {
+    "id": "tkt_0001",
+    "subject": "Tracking hasn't updated in 10 days",
+    "body": "Hi team, order #40293 (water bottles for our customer summit) was promised on the 9th and it's now 10 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-06-25T02:43:09.754Z",
+    "account": {
+      "name": "Lumen Dynamics",
+      "segment": "growth",
+      "mrr": 716
+    }
+  },
+  {
+    "id": "tkt_0108",
+    "subject": "Renewal question: pricing feels high",
+    "body": "Our procurement ran a comparison and Gemnote quoted the same 47 water bottles at about 35% less, shipping included. I like your platform, but I need something to defend this line item in the budget review. Is there flexibility on per-unit pricing at our volume?",
+    "createdAt": "2026-06-25T06:29:39.297Z",
+    "account": {
+      "name": "Silver Legal",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0063",
+    "subject": "Fit question before we reorder",
+    "body": "The tees we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-06-25T09:14:54.990Z",
+    "account": {
+      "name": "Cedar Partners",
+      "segment": "enterprise",
+      "mrr": 5964
+    }
+  },
+  {
+    "id": "tkt_0109",
+    "subject": "Considering switching providers",
+    "body": "Every quarter this gets harder to justify. Your water bottles are nicer, sure, but at 33% over SwagUp \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-06-25T09:51:31.328Z",
+    "account": {
+      "name": "Atlas Systems",
+      "segment": "starter",
+      "mrr": 90
+    }
+  },
+  {
+    "id": "tkt_0187",
+    "subject": "CSV upload keeps failing",
+    "body": "Trying to add our office manager as a second admin and the invite email never lands. Can you check whether it's being blocked on your end? Domain is our company domain.",
+    "createdAt": "2026-06-26T08:15:02.278Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0135",
+    "subject": "Exchange process is way too complicated",
+    "body": "Your policy says returns accepted on unworn items, but the portal rejected our request because the order contains printed merch. Nobody said customized items were final sale at checkout. That needs to be much clearer before payment, not after.",
+    "createdAt": "2026-06-27T02:33:42.923Z",
+    "account": {
+      "name": "Blue Financial",
+      "segment": "starter",
+      "mrr": 49
+    }
+  },
+  {
+    "id": "tkt_0143",
+    "subject": "Water-damaged shipment",
+    "body": "The pallet for order #43636 arrived with the top layer of boxes crushed. About 197 beanies have visible scuffs and bent packaging. These were supposed to be client gifts — presentation matters. Photos attached; we need replacements before our company offsite.",
+    "createdAt": "2026-06-27T06:41:53.042Z",
+    "account": {
+      "name": "Silver Legal",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0083",
+    "subject": "Fit question before we reorder",
+    "body": "Morgan here from the people team. Your unisex sizing is baffling — the medium fits like a small and the size chart doesn't say whether it's US or EU sizing. Ordering for a mixed team of 193, we really need a straightforward fit guide.",
+    "createdAt": "2026-06-28T00:35:43.016Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0054",
+    "subject": "Delivery window missed for order #42190",
+    "body": "Honestly at this point I just need a real ETA. The order for the new-hire onboarding class has been \"in production\" for 5 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-06-28T01:21:03.415Z",
+    "account": {
+      "name": "Vertex Media",
+      "segment": "starter",
+      "mrr": 84
+    }
+  },
+  {
+    "id": "tkt_0006",
+    "subject": "URGENT: hoodies for the new-hire onboarding class not arrived",
+    "body": "This is the third email about order #46381. Every reply says \"it will ship this week\" and then nothing moves. It's been 4 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-06-28T02:29:12.976Z",
+    "account": {
+      "name": "Cedar Studios",
+      "segment": "growth",
+      "mrr": 712
+    }
+  },
+  {
+    "id": "tkt_0077",
+    "subject": "Confused by your size chart",
+    "body": "Dana here from the people team. Your unisex sizing is baffling — the medium fits like a small and the size chart doesn't say whether it's US or EU sizing. Ordering for a mixed team of 13, we really need a straightforward fit guide.",
+    "createdAt": "2026-06-28T04:09:56.464Z",
+    "account": {
+      "name": "Blue Networks",
+      "segment": "enterprise",
+      "mrr": 1725
+    }
+  },
+  {
+    "id": "tkt_0030",
+    "subject": "Kit arrival date slipped again",
+    "body": "The tote bags arrived two weeks late and half our remote folks' addresses now show \"return to sender\" because they'd already moved apartments. Late delivery isn't just late for us, it cascades. We need reliable dates more than we need discounts.",
+    "createdAt": "2026-06-28T08:12:21.613Z",
+    "account": {
+      "name": "Golden Works",
+      "segment": "enterprise",
+      "mrr": 2484
+    }
+  },
+  {
+    "id": "tkt_0102",
+    "subject": "Considering switching providers",
+    "body": "Every quarter this gets harder to justify. Your tees are nicer, sure, but at 27% over Gemnote \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-06-28T22:53:06.694Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0115",
+    "subject": "Quote comparison — your pricing vs SwagUp",
+    "body": "The platform fee plus per-item pricing is adding up. SwagUp bundles storage and kitting for free. Am I misreading your pricing page, or are we genuinely paying more for the same thing?",
+    "createdAt": "2026-06-30T01:53:53.364Z",
+    "account": {
+      "name": "Cedar Studios",
+      "segment": "growth",
+      "mrr": 712
+    }
+  },
+  {
+    "id": "tkt_0050",
+    "subject": "Kit arrival date slipped again",
+    "body": "The holiday gift boxes arrived two weeks late and half our remote folks' addresses now show \"return to sender\" because they'd already moved apartments. Late delivery isn't just late for us, it cascades. We need reliable dates more than we need discounts.",
+    "createdAt": "2026-06-30T11:11:33.799Z",
+    "account": {
+      "name": "Copper Security",
+      "segment": "starter",
+      "mrr": 51
+    }
+  },
+  {
+    "id": "tkt_0070",
+    "subject": "Half the team's caps don't fit",
+    "body": "We collected sizes from 143 employees using the chart on your product page, and roughly a third of the caps came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-06-30T22:03:02.867Z",
+    "account": {
+      "name": "Delta Analytics",
+      "segment": "starter",
+      "mrr": 77
+    }
+  },
+  {
+    "id": "tkt_0027",
+    "subject": "Where is our beanies order?",
+    "body": "Honestly at this point I just need a real ETA. The order for our Q3 all-hands has been \"in production\" for 12 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-07-01T12:33:42.163Z",
+    "account": {
+      "name": "Ridge Studios",
+      "segment": "starter",
+      "mrr": 68
+    }
+  },
+  {
+    "id": "tkt_0169",
+    "subject": "Still waiting on an answer re: order #46221",
+    "body": "Chat says \"typically replies in a few minutes\" and then sits at \"waiting for agent\" until it times out. Tried three times this week. Email took 8 days last month. For what we pay, is there a priority support tier or a named contact we can use?",
+    "createdAt": "2026-07-01T16:24:50.028Z",
+    "account": {
+      "name": "Lumen Security",
+      "segment": "starter",
+      "mrr": 96
+    }
+  },
+  {
+    "id": "tkt_0013",
+    "subject": "Where is our beanies order?",
+    "body": "We keep getting delay notifications with no reason attached. 19 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-07-02T03:02:30.795Z",
+    "account": {
+      "name": "Blue Networks",
+      "segment": "enterprise",
+      "mrr": 1725
+    }
+  },
+  {
+    "id": "tkt_0064",
+    "subject": "Fit question before we reorder",
+    "body": "We collected sizes from 220 employees using the chart on your product page, and roughly a third of the tees came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-07-02T13:58:52.689Z",
+    "account": {
+      "name": "Ridge Labs",
+      "segment": "starter",
+      "mrr": 59
+    }
+  },
+  {
+    "id": "tkt_0198",
+    "subject": "CSV upload keeps failing",
+    "body": "No issue here — just wanted to say the crewnecks for the new-hire onboarding class were the best merch we've ever done. The team keeps asking when the next drop is. Kudos to whoever runs your design review.",
+    "createdAt": "2026-07-02T23:24:26.220Z",
+    "account": {
+      "name": "Golden Media",
+      "segment": "growth",
+      "mrr": 840
+    }
+  },
+  {
+    "id": "tkt_0075",
+    "subject": "Fit question before we reorder",
+    "body": "We collected sizes from 50 employees using the chart on your product page, and roughly a third of the beanies came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-07-03T10:42:34.013Z",
+    "account": {
+      "name": "Pioneer Software",
+      "segment": "starter",
+      "mrr": 75
+    }
+  },
+  {
+    "id": "tkt_0019",
+    "subject": "Kit arrival date slipped again",
+    "body": "This is the third email about order #49268. Every reply says \"it will ship this week\" and then nothing moves. It's been 17 days. If the delay is at the printer just say so — I can plan around honest dates, I can't plan around silence.",
+    "createdAt": "2026-07-03T13:50:21.520Z",
+    "account": {
+      "name": "Ridge Studios",
+      "segment": "starter",
+      "mrr": 68
+    }
+  },
+  {
+    "id": "tkt_0034",
+    "subject": "Shipment delayed again, need ETA before our company offsite",
+    "body": "We keep getting delay notifications with no reason attached. 11 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-07-03T20:45:39.930Z",
+    "account": {
+      "name": "Lumen Ventures",
+      "segment": "enterprise",
+      "mrr": 2740
+    }
+  },
+  {
+    "id": "tkt_0116",
+    "subject": "Why are we paying more than Sendoso would charge?",
+    "body": "Every quarter this gets harder to justify. Your holiday gift boxes are nicer, sure, but at 32% over Sendoso \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-07-04T02:11:16.509Z",
+    "account": {
+      "name": "Blue Financial",
+      "segment": "starter",
+      "mrr": 49
+    }
+  },
+  {
+    "id": "tkt_0151",
+    "subject": "Water-damaged shipment",
+    "body": "Received order #46328 today: outer cartons torn, two boxes open, contents dusty. Carrier says file with the shipper. Your form says contact the carrier. Somebody please own this — we just want 37 replacement units.",
+    "createdAt": "2026-07-04T02:12:49.514Z",
+    "account": {
+      "name": "Atlas Systems",
+      "segment": "starter",
+      "mrr": 90
+    }
+  },
+  {
+    "id": "tkt_0158",
+    "subject": "Order #42642 arrived damaged",
+    "body": "Every box in this order was packed with zero padding — onboarding kits just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-07-04T19:35:29.978Z",
+    "account": {
+      "name": "Pioneer Studios",
+      "segment": "growth",
+      "mrr": 717
+    }
+  },
+  {
+    "id": "tkt_0154",
+    "subject": "Damaged items in bulk order",
+    "body": "Every box in this order was packed with zero padding — tees just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-07-05T12:27:30.146Z",
+    "account": {
+      "name": "Ridge Consulting",
+      "segment": "growth",
+      "mrr": 697
+    }
+  },
+  {
+    "id": "tkt_0107",
+    "subject": "Got a cheaper quote elsewhere",
+    "body": "Every quarter this gets harder to justify. Your crewnecks are nicer, sure, but at 21% over Sendoso \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-07-05T20:43:44.084Z",
+    "account": {
+      "name": "Delta Systems",
+      "segment": "enterprise",
+      "mrr": 3056
+    }
+  },
+  {
+    "id": "tkt_0153",
+    "subject": "Gift boxes arrived in bad shape",
+    "body": "Every box in this order was packed with zero padding — tote bags just loose inside oversized cartons. Predictably, a bunch arrived dinged. This is the second order with flimsy packaging. Can you flag our account for reinforced packing?",
+    "createdAt": "2026-07-05T22:31:29.679Z",
+    "account": {
+      "name": "Iron Media",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0106",
+    "subject": "Quote comparison — your pricing vs SwagUp",
+    "body": "The platform fee plus per-item pricing is adding up. SwagUp bundles storage and kitting for free. Am I misreading your pricing page, or are we genuinely paying more for the same thing?",
+    "createdAt": "2026-07-06T15:26:13.088Z",
+    "account": {
+      "name": "Blue Labs",
+      "segment": "growth",
+      "mrr": 685
+    }
+  },
+  {
+    "id": "tkt_0065",
+    "subject": "Half the team's holiday gift boxes don't fit",
+    "body": "Alex here from the people team. Your unisex sizing is baffling — the medium fits like a small and the size chart doesn't say whether it's US or EU sizing. Ordering for a mixed team of 13, we really need a straightforward fit guide.",
+    "createdAt": "2026-07-06T15:40:36.729Z",
+    "account": {
+      "name": "Atlas Health",
+      "segment": "starter",
+      "mrr": 90
+    }
+  },
+  {
+    "id": "tkt_0134",
+    "subject": "Stuck in the exchange flow",
+    "body": "Trying to exchange 151 water bottles from order #45147 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-07-06T22:07:32.952Z",
+    "account": {
+      "name": "Lumen Dynamics",
+      "segment": "growth",
+      "mrr": 716
+    }
+  },
+  {
+    "id": "tkt_0114",
+    "subject": "Renewal question: pricing feels high",
+    "body": "Every quarter this gets harder to justify. Your crewnecks are nicer, sure, but at 32% over SwagUp \"nicer\" needs to come with something concrete — faster turnaround, better guarantees, anything. What can you offer before I take this to leadership?",
+    "createdAt": "2026-07-06T22:15:31.887Z",
+    "account": {
+      "name": "Golden Foods",
+      "segment": "starter",
+      "mrr": 94
+    }
+  },
+  {
+    "id": "tkt_0037",
+    "subject": "URGENT: tees for our company offsite not arrived",
+    "body": "Hey — not angry, just planning. Order #46168 shows a revised delivery of the 17th, which is after our company offsite. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-07-06T22:27:46.240Z",
+    "account": {
+      "name": "Atlas Financial",
+      "segment": "growth",
+      "mrr": 309
+    }
+  },
+  {
+    "id": "tkt_0020",
+    "subject": "Order #49411 still not delivered — 11 days late",
+    "body": "Honestly at this point I just need a real ETA. The order for our company offsite has been \"in production\" for 11 days. Our old vendor was slower on quotes but at least the boxes showed up when promised.",
+    "createdAt": "2026-07-07T11:51:29.461Z",
+    "account": {
+      "name": "Lumen Networks",
+      "segment": "starter",
+      "mrr": 98
+    }
+  },
+  {
+    "id": "tkt_0002",
+    "subject": "Third delay notice on the same order",
+    "body": "We ordered caps with 3 weeks of buffer and they STILL didn't make it in time for our Q3 all-hands. 127 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-07-07T15:45:37.772Z",
+    "account": {
+      "name": "Iron Partners",
+      "segment": "growth",
+      "mrr": 366
+    }
+  },
+  {
+    "id": "tkt_0007",
+    "subject": "URGENT: beanies for our customer summit not arrived",
+    "body": "We ordered beanies with 3 weeks of buffer and they STILL didn't make it in time for our customer summit. 27 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-07-07T18:45:40.616Z",
+    "account": {
+      "name": "Bright Security",
+      "segment": "enterprise",
+      "mrr": 4426
+    }
+  },
+  {
+    "id": "tkt_0119",
+    "subject": "Stuck in the exchange flow",
+    "body": "We were charged a restocking fee on an exchange that was your fulfillment error — wrong sizes shipped against a correct order sheet. I have the CSV we submitted. Please reverse the fee and fix whatever mapped those sizes.",
+    "createdAt": "2026-07-08T00:51:04.709Z",
+    "account": {
+      "name": "Blue Collective",
+      "segment": "growth",
+      "mrr": 520
+    }
+  },
+  {
+    "id": "tkt_0142",
+    "subject": "Refund for order #42715 still pending",
+    "body": "We were charged a restocking fee on an exchange that was your fulfillment error — wrong sizes shipped against a correct order sheet. I have the CSV we submitted. Please reverse the fee and fix whatever mapped those sizes.",
+    "createdAt": "2026-07-08T08:13:12.208Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0122",
+    "subject": "Exchange process is way too complicated",
+    "body": "We were charged a restocking fee on an exchange that was your fulfillment error — wrong sizes shipped against a correct order sheet. I have the CSV we submitted. Please reverse the fee and fix whatever mapped those sizes.",
+    "createdAt": "2026-07-08T17:12:10.009Z",
+    "account": {
+      "name": "Golden Dynamics",
+      "segment": "enterprise",
+      "mrr": 5908
+    }
+  },
+  {
+    "id": "tkt_0112",
+    "subject": "Got a cheaper quote elsewhere",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while Sendoso is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-07-09T07:57:00.742Z",
+    "account": {
+      "name": "Atlas Logistics",
+      "segment": "starter",
+      "mrr": 83
+    }
+  },
+  {
+    "id": "tkt_0032",
+    "subject": "Shipment delayed again, need ETA before our conference booth at SaaStr",
+    "body": "Your dashboard says delivered, our office says otherwise. Nothing arrived at the dock and the carrier says they never received the package from you. 220 new hires start Monday and their welcome kits are somewhere in limbo. Please escalate.",
+    "createdAt": "2026-07-09T11:09:38.757Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0200",
+    "subject": "Can we add a second admin?",
+    "body": "Do you have a public API for order status? We'd love to pull tracking into our internal dashboard rather than checking the portal. Even a read-only endpoint would do.",
+    "createdAt": "2026-07-09T15:40:21.738Z",
+    "account": {
+      "name": "Atlas Legal",
+      "segment": "growth",
+      "mrr": 579
+    }
+  },
+  {
+    "id": "tkt_0039",
+    "subject": "Tracking hasn't updated in 17 days",
+    "body": "We keep getting delay notifications with no reason attached. 17 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-07-10T03:53:52.758Z",
+    "account": {
+      "name": "Granite Health",
+      "segment": "enterprise",
+      "mrr": 3013
+    }
+  },
+  {
+    "id": "tkt_0199",
+    "subject": "SSO setup for our team store",
+    "body": "Setting up SSO for the team store: does the SAML integration support Okta groups for role mapping, or is it flat access? Docs mention Okta but not groups. Happy to hop on a call with our IT admin.",
+    "createdAt": "2026-07-10T12:21:00.717Z",
+    "account": {
+      "name": "Delta Software",
+      "segment": "growth",
+      "mrr": 798
+    }
+  },
+  {
+    "id": "tkt_0113",
+    "subject": "Budget review — need pricing justification",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while Printfection is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-07-10T13:53:30.337Z",
+    "account": {
+      "name": "Ridge Financial",
+      "segment": "starter",
+      "mrr": 69
+    }
+  },
+  {
+    "id": "tkt_0005",
+    "subject": "Delivery window missed for order #48355",
+    "body": "Hey — not angry, just planning. Order #48355 shows a revised delivery of the 9th, which is after our conference booth at SaaStr. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-07-10T18:57:00.218Z",
+    "account": {
+      "name": "Golden Labs",
+      "segment": "enterprise",
+      "mrr": 1981
+    }
+  },
+  {
+    "id": "tkt_0072",
+    "subject": "Half the team's tote bags don't fit",
+    "body": "We collected sizes from 21 employees using the chart on your product page, and roughly a third of the tote bags came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-07-11T13:18:01.457Z",
+    "account": {
+      "name": "Bright Health",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0056",
+    "subject": "Size guide doesn't match what arrived",
+    "body": "Support told us the water bottles run large, the website says true to size, and the box that arrived says otherwise. Whom do we believe? Genuinely asking for guidance, we like the quality but sizing is a coin flip.",
+    "createdAt": "2026-07-11T13:25:49.259Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0040",
+    "subject": "Order #40309 still not delivered — 17 days late",
+    "body": "Hey — not angry, just planning. Order #40309 shows a revised delivery of the 17th, which is after our conference booth at SaaStr. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-07-11T19:55:36.635Z",
+    "account": {
+      "name": "Copper Studios",
+      "segment": "starter",
+      "mrr": 73
+    }
+  },
+  {
+    "id": "tkt_0036",
+    "subject": "Third delay notice on the same order",
+    "body": "Hey — not angry, just planning. Order #49472 shows a revised delivery of the 27th, which is after our 10-year anniversary party. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-07-12T02:49:18.210Z",
+    "account": {
+      "name": "Golden Foods",
+      "segment": "starter",
+      "mrr": 94
+    }
+  },
+  {
+    "id": "tkt_0051",
+    "subject": "Shipment delayed again, need ETA before our 10-year anniversary party",
+    "body": "We ordered tote bags with 3 weeks of buffer and they STILL didn't make it in time for our 10-year anniversary party. 158 people showed up and we had nothing to hand out. I need to understand what happened and whether expedited shipping is ever actually expedited.",
+    "createdAt": "2026-07-13T06:35:12.418Z",
+    "account": {
+      "name": "Beacon Foods",
+      "segment": "enterprise",
+      "mrr": 4663
+    }
+  },
+  {
+    "id": "tkt_0139",
+    "subject": "Return label link is broken",
+    "body": "Trying to exchange 215 crewnecks from order #49869 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-07-13T11:56:57.577Z",
+    "account": {
+      "name": "Harbor Foods",
+      "segment": "starter",
+      "mrr": 58
+    }
+  },
+  {
+    "id": "tkt_0104",
+    "subject": "Got a cheaper quote elsewhere",
+    "body": "Our procurement ran a comparison and Gemnote quoted the same 105 onboarding kits at about 12% less, shipping included. I like your platform, but I need something to defend this line item in the budget review. Is there flexibility on per-unit pricing at our volume?",
+    "createdAt": "2026-07-13T21:17:19.674Z",
+    "account": {
+      "name": "Nova Foods",
+      "segment": "enterprise",
+      "mrr": 3303
+    }
+  },
+  {
+    "id": "tkt_0033",
+    "subject": "Kit arrival date slipped again",
+    "body": "We keep getting delay notifications with no reason attached. 19 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-07-14T18:46:50.073Z",
+    "account": {
+      "name": "Vertex Dynamics",
+      "segment": "enterprise",
+      "mrr": 5203
+    }
+  },
+  {
+    "id": "tkt_0079",
+    "subject": "Fit question before we reorder",
+    "body": "The hoodies we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-07-14T22:19:00.001Z",
+    "account": {
+      "name": "Delta Robotics",
+      "segment": "growth",
+      "mrr": 375
+    }
+  },
+  {
+    "id": "tkt_0084",
+    "subject": "Size guide doesn't match what arrived",
+    "body": "We have 146 people between XS and 4XL and your size chart stops at 2XL for half the catalog. What are the actual options for extended sizes? People notice when the merch doesn't come in their size — it's the opposite of inclusive.",
+    "createdAt": "2026-07-15T03:05:02.826Z",
+    "account": {
+      "name": "Delta Analytics",
+      "segment": "starter",
+      "mrr": 77
+    }
+  },
+  {
+    "id": "tkt_0095",
+    "subject": "Quote comparison — your pricing vs Gemnote",
+    "body": "Renewal is next month and finance flagged that our per-kit cost went up while Gemnote is running promos. What exactly are we getting for the premium? If it's quality and reliability, show me numbers I can forward.",
+    "createdAt": "2026-07-15T12:36:30.313Z",
+    "account": {
+      "name": "Orchard Logistics",
+      "segment": "starter",
+      "mrr": 93
+    }
+  },
+  {
+    "id": "tkt_0099",
+    "subject": "Budget review — need pricing justification",
+    "body": "Being transparent: we have a signed quote from Gemnote for the our conference booth at SaaStr order at 15% below yours. I'd rather not migrate the whole team store, but the delta is hard to ignore. Can you match or get close?",
+    "createdAt": "2026-07-15T19:12:20.703Z",
+    "account": {
+      "name": "Atlas Studios",
+      "segment": "growth",
+      "mrr": 515
+    }
+  },
+  {
+    "id": "tkt_0073",
+    "subject": "Which size chart applies to order #47968?",
+    "body": "Before we place the our 10-year anniversary party order: do the hoodies run true to size? Last order everyone sized up on advice from your chat widget and then everything was enormous. A simple \"runs small / true / runs large\" flag per product would save us so much churn.",
+    "createdAt": "2026-07-16T11:48:09.549Z",
+    "account": {
+      "name": "Harbor Robotics",
+      "segment": "starter",
+      "mrr": 56
+    }
+  },
+  {
+    "id": "tkt_0103",
+    "subject": "Quote comparison — your pricing vs Printfection",
+    "body": "The platform fee plus per-item pricing is adding up. Printfection bundles storage and kitting for free. Am I misreading your pricing page, or are we genuinely paying more for the same thing?",
+    "createdAt": "2026-07-16T17:28:21.802Z",
+    "account": {
+      "name": "Cedar Logistics",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0194",
+    "subject": "The caps were a huge hit!",
+    "body": "Do you have a public API for order status? We'd love to pull tracking into our internal dashboard rather than checking the portal. Even a read-only endpoint would do.",
+    "createdAt": "2026-07-17T01:21:32.833Z",
+    "account": {
+      "name": "Blue Labs",
+      "segment": "growth",
+      "mrr": 685
+    }
+  },
+  {
+    "id": "tkt_0045",
+    "subject": "Kit arrival date slipped again",
+    "body": "Hi team, order #40618 (caps for our conference booth at SaaStr) was promised on the 6th and it's now 4 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-07-17T04:06:08.268Z",
+    "account": {
+      "name": "Blue Collective",
+      "segment": "growth",
+      "mrr": 520
+    }
+  },
+  {
+    "id": "tkt_0133",
+    "subject": "Stuck in the exchange flow",
+    "body": "Trying to exchange 185 caps from order #44075 and the portal makes me create a separate return for every single item. There's no bulk exchange? That's an hour of clicking for something that should be one form.",
+    "createdAt": "2026-07-17T04:23:01.894Z",
+    "account": {
+      "name": "Golden Dynamics",
+      "segment": "enterprise",
+      "mrr": 5908
+    }
+  },
+  {
+    "id": "tkt_0021",
+    "subject": "URGENT: crewnecks for the sales kickoff not arrived",
+    "body": "Your dashboard says delivered, our office says otherwise. Nothing arrived at the dock and the carrier says they never received the package from you. 27 new hires start Monday and their welcome kits are somewhere in limbo. Please escalate.",
+    "createdAt": "2026-07-18T01:53:51.810Z",
+    "account": {
+      "name": "Nova Foods",
+      "segment": "enterprise",
+      "mrr": 3303
+    }
+  },
+  {
+    "id": "tkt_0015",
+    "subject": "Tracking hasn't updated in 14 days",
+    "body": "Hey — not angry, just planning. Order #48733 shows a revised delivery of the 8th, which is after our company offsite. Can we split the order and rush whatever's ready? Happy to pay the difference, we just can't be empty-handed.",
+    "createdAt": "2026-07-18T11:45:44.744Z",
+    "account": {
+      "name": "Pioneer Systems",
+      "segment": "starter",
+      "mrr": 63
+    }
+  },
+  {
+    "id": "tkt_0141",
+    "subject": "Return label link is broken",
+    "body": "It's been 17 days since UPS shows your warehouse received our return and the refund still says processing. Finance closes the books Friday. What's the actual refund SLA?",
+    "createdAt": "2026-07-18T19:43:11.855Z",
+    "account": {
+      "name": "Cedar Logistics",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0008",
+    "subject": "Kit arrival date slipped again",
+    "body": "We keep getting delay notifications with no reason attached. 9 days behind now. Is this a warehouse issue or a printing backlog? Give me something I can tell my exec team.",
+    "createdAt": "2026-07-18T20:01:19.785Z",
+    "account": {
+      "name": "Pioneer Systems",
+      "segment": "starter",
+      "mrr": 63
+    }
+  },
+  {
+    "id": "tkt_0124",
+    "subject": "Stuck in the exchange flow",
+    "body": "It's been 12 days since UPS shows your warehouse received our return and the refund still says processing. Finance closes the books Friday. What's the actual refund SLA?",
+    "createdAt": "2026-07-18T21:34:01.822Z",
+    "account": {
+      "name": "Iron Collective",
+      "segment": "enterprise",
+      "mrr": 3368
+    }
+  },
+  {
+    "id": "tkt_0087",
+    "subject": "Size guide doesn't match what arrived",
+    "body": "The crewnecks we received don't match the measurements published on the site. We measured three mediums and got three different chest widths. Is there garment variance between print batches? What sizes should we actually order next time?",
+    "createdAt": "2026-07-19T15:50:45.596Z",
+    "account": {
+      "name": "Ridge Security",
+      "segment": "starter",
+      "mrr": 87
+    }
+  },
+  {
+    "id": "tkt_0076",
+    "subject": "Size guide doesn't match what arrived",
+    "body": "We collected sizes from 12 employees using the chart on your product page, and roughly a third of the onboarding kits came in tight. Comparing the chart to a tape measure, the chest measurements seem to describe the garment laid flat, not the body. Which is it? We want to reorder but not repeat this.",
+    "createdAt": "2026-07-19T21:40:37.095Z",
+    "account": {
+      "name": "Pioneer Foods",
+      "segment": "growth",
+      "mrr": 509
+    }
+  },
+  {
+    "id": "tkt_0177",
+    "subject": "No reply on ticket for 16 days",
+    "body": "I opened a ticket about order #40234 16 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-07-20T07:44:39.915Z",
+    "account": {
+      "name": "Golden Foods",
+      "segment": "starter",
+      "mrr": 94
+    }
+  },
+  {
+    "id": "tkt_0082",
+    "subject": "Confused by your size chart",
+    "body": "We have 34 people between XS and 4XL and your size chart stops at 2XL for half the catalog. What are the actual options for extended sizes? People notice when the merch doesn't come in their size — it's the opposite of inclusive.",
+    "createdAt": "2026-07-20T18:59:02.245Z",
+    "account": {
+      "name": "Harbor Security",
+      "segment": "starter",
+      "mrr": 63
+    }
+  },
+  {
+    "id": "tkt_0011",
+    "subject": "Delivery window missed for order #44609",
+    "body": "Hi team, order #44609 (caps for our 10-year anniversary party) was promised on the 24th and it's now 18 days past that. The tracking page still says \"label created\". We planned distribution around your original date — this is really hurting us. Can someone tell me where the shipment actually is?",
+    "createdAt": "2026-07-20T23:33:20.235Z",
+    "account": {
+      "name": "Golden Dynamics",
+      "segment": "enterprise",
+      "mrr": 5908
+    }
+  },
+  {
+    "id": "tkt_0118",
+    "subject": "Budget review — need pricing justification",
+    "body": "Being transparent: we have a signed quote from SwagUp for the our customer summit order at 18% below yours. I'd rather not migrate the whole team store, but the delta is hard to ignore. Can you match or get close?",
+    "createdAt": "2026-07-21T03:20:46.157Z",
+    "account": {
+      "name": "Golden Foods",
+      "segment": "starter",
+      "mrr": 94
+    }
+  },
+  {
+    "id": "tkt_0176",
+    "subject": "Escalation path?",
+    "body": "I opened a ticket about order #47366 13 days ago and the only response is the auto-acknowledgement. I get that queues happen, but even a \"we're looking into it\" from a human would help. What's the current expected first-response time?",
+    "createdAt": "2026-07-21T06:27:21.862Z",
+    "account": {
+      "name": "Cedar Logistics",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0188",
+    "subject": "CSV upload keeps failing",
+    "body": "Feature request: a Slack webhook that pings us when a kit ships. We're building spreadsheets by hand to track this today. Happy to beta test anything.",
+    "createdAt": "2026-07-21T21:13:54.703Z",
+    "account": {
+      "name": "Cedar Logistics",
+      "segment": "starter",
+      "mrr": 62
+    }
+  },
+  {
+    "id": "tkt_0140",
+    "subject": "Exchange process is way too complicated",
+    "body": "It's been 12 days since UPS shows your warehouse received our return and the refund still says processing. Finance closes the books Friday. What's the actual refund SLA?",
+    "createdAt": "2026-07-22T02:03:18.767Z",
+    "account": {
+      "name": "Pioneer Software",
+      "segment": "starter",
+      "mrr": 75
+    }
+  },
+  {
+    "id": "tkt_0173",
+    "subject": "Is anyone reading these?",
+    "body": "Following up for the third time. The question is simple — can we change the ship-to address on order #49693? Every day this sits unanswered the change gets harder to make. Please just reply either way.",
+    "createdAt": "2026-07-22T03:06:57.411Z",
+    "account": {
+      "name": "Pioneer Foods",
+      "segment": "growth",
+      "mrr": 509
+    }
+  }
+]
