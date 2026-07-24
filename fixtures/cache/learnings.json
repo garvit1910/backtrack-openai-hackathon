@@ -1,38 +1,74 @@
 [
   {
-    "id": "stub_learning_1_starter",
+    "id": "learn:c1:starter",
     "type": "learning",
-    "content": "starter converts best on the value angle (ctr 3.5%, confidence 97%) — lead with value for this segment.",
+    "content": "For starter accounts, utilize the speed angle in ads, as it outperformed alternatives on 'Shipping delays' with an estimated CTR of 2.5%.",
     "segment": "starter",
     "clusterId": "cl_0",
     "sourceRefs": [
-      "cr_c1_starter_value_a"
+      "bandit:c1:starter"
     ],
-    "confidence": 0.966,
+    "confidence": 0.578,
     "version": 2
   },
   {
-    "id": "stub_learning_1_growth",
+    "id": "insight:c1:starter",
+    "type": "segment_insight",
+    "content": "Starter buyers prioritize time-to-value; emphasize minutes and days in messaging rather than lengthy capability lists.",
+    "segment": "starter",
+    "clusterId": "cl_0",
+    "sourceRefs": [
+      "bandit:c1:starter"
+    ],
+    "confidence": 0.52,
+    "version": 2
+  },
+  {
+    "id": "learn:c1:growth",
     "type": "learning",
-    "content": "growth converts best on the speed angle (ctr 3.3%, confidence 92%) — lead with speed for this segment.",
+    "content": "For growth accounts, using the speed angle token resulted in an impressive 3.3% CTR on 'Shipping delays', surpassing the 2.5% average, so lead every growth ad with the speed angle.",
     "segment": "growth",
     "clusterId": "cl_0",
     "sourceRefs": [
-      "cr_c1_growth_speed_a"
+      "bandit:c1:growth"
     ],
-    "confidence": 0.922,
+    "confidence": 0.906,
     "version": 2
   },
   {
-    "id": "stub_learning_1_enterprise",
+    "id": "insight:c1:growth",
+    "type": "segment_insight",
+    "content": "Growth buyers prioritize time-to-value, so emphasize minutes and days rather than listing capabilities.",
+    "segment": "growth",
+    "clusterId": "cl_0",
+    "sourceRefs": [
+      "bandit:c1:growth"
+    ],
+    "confidence": 0.82,
+    "version": 2
+  },
+  {
+    "id": "learn:c1:enterprise",
     "type": "learning",
-    "content": "enterprise converts best on the reliability angle (ctr 4.3%, confidence 98%) — lead with reliability for this segment.",
+    "content": "For enterprise accounts, the reliability angle outperformed alternatives on 'Shipping delays' with an estimated CTR of 3.2% compared to the 2.5% average; always lead every enterprise ad with the reliability angle.",
     "segment": "enterprise",
     "clusterId": "cl_0",
     "sourceRefs": [
-      "cr_c1_enterprise_reliability_a"
+      "bandit:c1:enterprise"
     ],
-    "confidence": 0.984,
+    "confidence": 0.838,
+    "version": 2
+  },
+  {
+    "id": "insight:c1:enterprise",
+    "type": "segment_insight",
+    "content": "Enterprise buyers prioritize proof of consistent performance, so always lead with uptime and recovery behavior.",
+    "segment": "enterprise",
+    "clusterId": "cl_0",
+    "sourceRefs": [
+      "bandit:c1:enterprise"
+    ],
+    "confidence": 0.75,
     "version": 2
   }
 ]

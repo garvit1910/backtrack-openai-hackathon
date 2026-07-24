@@ -2,23 +2,23 @@
   "cycle": 2,
   "winners": {
     "starter": {
-      "winnerCreativeId": "cr_c2_starter_value_b",
-      "winnerAngle": "value",
-      "ctrEstimate": 0.03478515054077755,
-      "confidence": 0.974
+      "winnerCreativeId": "cr-c2-starter-2",
+      "winnerAngle": "speed",
+      "ctrEstimate": 0.02302025782688766,
+      "confidence": 1
     },
     "growth": {
-      "winnerCreativeId": "cr_c2_growth_speed_b",
+      "winnerCreativeId": "cr-c2-growth-2",
       "winnerAngle": "speed",
-      "ctrEstimate": 0.039226080042406575,
-      "confidence": 0.996
+      "ctrEstimate": 0.039718912312862814,
+      "confidence": 1
     },
     "enterprise": {
-      "winnerCreativeId": "cr_c2_enterprise_reliability_b",
+      "winnerCreativeId": "cr-c2-enterprise-1",
       "winnerAngle": "reliability",
-      "ctrEstimate": 0.04173419773095624,
-      "confidence": 0.998
+      "ctrEstimate": 0.034660260809883325,
+      "confidence": 1
     }
   },
-  "avgCtr": 0.035463093210927665
+  "avgCtr": 0.03036137440758294
 }

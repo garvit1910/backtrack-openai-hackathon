@@ -3,26 +3,26 @@
   "revenueAtRisk": 65501,
   "winners": {
     "starter": {
-      "creativeId": "cr_c2_starter_value_b",
-      "angle": "value",
-      "headline": "Premium team merch without the platform-fee bloat.",
-      "ctrEstimate": 0.03478515054077755
+      "creativeId": "cr-c2-starter-2",
+      "angle": "speed",
+      "headline": "Swift Shipping for Your Team Kits",
+      "ctrEstimate": 0.02302025782688766
     },
     "growth": {
-      "creativeId": "cr_c2_growth_speed_b",
+      "creativeId": "cr-c2-growth-2",
       "angle": "speed",
-      "headline": "Offsite in three weeks? Kits in two.",
-      "ctrEstimate": 0.039226080042406575
+      "headline": "Fast shipping for your team merch!",
+      "ctrEstimate": 0.039718912312862814
     },
     "enterprise": {
-      "creativeId": "cr_c2_enterprise_reliability_b",
+      "creativeId": "cr-c2-enterprise-1",
       "angle": "reliability",
-      "headline": "Merch that arrives when we said it would.",
-      "ctrEstimate": 0.04173419773095624
+      "headline": "Reliable Shipping for Your Team Kits",
+      "ctrEstimate": 0.034660260809883325
     }
   },
-  "cycle1AvgCtr": 0.03360225001850344,
-  "cycle2AvgCtr": 0.035463093210927665,
+  "cycle1AvgCtr": 0.025027767493520918,
+  "cycle2AvgCtr": 0.03036137440758294,
   "evidenceLinks": [
     {
       "sourceName": "bbb.org",

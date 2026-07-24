@@ -14,10 +14,11 @@ import type {
   RunBandit,
   RunLearner,
 } from "../schemas";
-import { contextStore } from "./stubs/context"; // WHEN P2 LANDS: "@/lib/context"
-import { generateCreatives } from "./stubs/creative"; // WHEN P2 LANDS: "@/lib/agents/creative"
-import { runLearner } from "./stubs/learner"; // WHEN P2 LANDS: "@/lib/agents/learner"
+import { contextStore } from "@/lib/context"; // REAL (Person 2)
+import { generateCreatives } from "@/lib/agents/creative"; // REAL (Person 2)
+import { runLearner } from "@/lib/agents/learner"; // REAL (Person 2)
 import { runMediaBuyer } from "@/lib/agents/mediaBuyer"; // REAL (Person 3)
+// stubs (lib/signals/stubs/*) stay available as instant fallback imports
 
 export interface Registry {
   contextStore: ContextStoreApi;
