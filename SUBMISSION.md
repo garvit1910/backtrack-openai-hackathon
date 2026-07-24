@@ -29,7 +29,7 @@ changes the tickets.
 ## Numbers to cite in the demo
 - 200 tickets → 7 clusters; top cluster "Shipping delays" = **$65.5k MRR at risk**, trend **+0.74**
 - 18 parallel Octen searches → 15–17 evidence cards with real sources (BBB, Trustpilot, TrustRadius)
-- Cycle 1 → 2 average CTR: **3.36% → 3.55% (+5.5%)** at equal budget, because cycle 2's
-  creatives double down on each segment's learned winning angle
-  (starter→value, growth→speed, enterprise→reliability)
-- Both cycles replay end-to-end from committed cache in ~36s with zero API keys
+- Cycle 1 → 2 average CTR: **2.50% → 3.04% (+21.3%)** at equal budget, because cycle 2's
+  creatives (layerVersion 2, new pack fingerprints, same prompt template — SHA-proven)
+  go all-in on each segment's learned winning angle
+- Both cycles replay end-to-end from committed cache in ~38s with zero API keys
