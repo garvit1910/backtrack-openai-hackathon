@@ -21,8 +21,8 @@ import type {
   Cycle,
   Segment,
   SegmentWinner,
-} from "@/components/contract";
-import { SEGMENTS } from "@/components/contract";
+} from "@/lib/schemas";
+import { SEGMENTS } from "@/lib/schemas";
 
 /* ------------------------------- RNG ---------------------------------- */
 
@@ -150,15 +150,21 @@ export interface MarketConfig {
   jitterAmp: number;
 }
 
+/**
+ * Realistically subtle gap (2.0% vs ~3.5%): discovery takes real spend, so a
+ * cycle that already knows the answer converts measurably better at equal
+ * budget. A cartoonish gap would let cycle 1 converge instantly and erase the
+ * two-cycle story.
+ */
 export const DEFAULT_MARKET: MarketConfig = {
   baseCtr: 0.02,
-  alignBonus: 0.05,
+  alignBonus: 0.015,
   prefs: {
     starter: "value",
     growth: "speed",
     enterprise: "reliability",
   },
-  jitterAmp: 0.005,
+  jitterAmp: 0.002,
 };
 
 /** Ground-truth CTR of a creative shown to a segment. Fixed for the whole run. */
@@ -178,22 +184,35 @@ export const TICK_BATCH = 250;
 const ALLOC_DRAWS = 32;
 const BUDGET_EMA = 0.3;
 
+/**
+ * Weakly-informative industry prior (mean ~3.2% CTR). Applied to every variant
+ * in every cycle equally — encodes "CTRs are a few percent", nothing else.
+ * A Beta(1,1) uniform prior would make cold variants absurdly optimistic.
+ */
+export const PRIOR_ALPHA = 1;
+export const PRIOR_BETA = 30;
+
+export type WarmStart = Record<string, { alpha: number; beta: number }>;
+
 export function initBandit(
   creatives: Creative[],
   segment: Segment,
   cycle: Cycle,
+  warmStart?: WarmStart,
 ): BanditState {
-  const variants: BanditVariant[] = creatives
-    .filter((c) => c.segment === segment)
-    .map((c) => ({
+  const own = creatives.filter((c) => c.segment === segment);
+  const variants: BanditVariant[] = own.map((c) => {
+    const warm = warmStart?.[c.id];
+    return {
       creativeId: c.id,
       angle: c.angle,
-      alpha: 1,
-      beta: 1,
+      alpha: warm ? warm.alpha : PRIOR_ALPHA,
+      beta: warm ? warm.beta : PRIOR_BETA,
       impressions: 0,
       clicks: 0,
-      budgetShare: 1 / Math.max(1, creatives.filter((x) => x.segment === segment).length),
-    }));
+      budgetShare: 1 / Math.max(1, own.length),
+    };
+  });
   return { segment, cycle, tick: 0, variants };
 }
 
@@ -251,7 +270,13 @@ export function posteriorMean(v: BanditVariant): number {
   return v.alpha / (v.alpha + v.beta);
 }
 
-/** Monte-Carlo P(current leader beats every other variant) */
+/**
+ * Monte-Carlo winner confidence at the ANGLE level: leader is the variant with
+ * the best posterior mean; confidence is P(some variant sharing the leader's
+ * angle wins the draw). Identical to variant-level confidence when angles are
+ * distinct, and lets cycle 2 double down with two same-angle creatives without
+ * the twins artificially depressing the readout.
+ */
 export function winnerConfidence(
   state: BanditState,
   rng: Rng,
@@ -267,7 +292,8 @@ export function winnerConfidence(
   for (let i = 1; i < n; i++) {
     if (posteriorMean(state.variants[i]) > posteriorMean(state.variants[leader])) leader = i;
   }
-  let winsForLeader = 0;
+  const leaderAngle = state.variants[leader].angle;
+  let winsForAngle = 0;
   for (let d = 0; d < draws; d++) {
     let best = 0;
     let bestTheta = -1;
@@ -279,13 +305,13 @@ export function winnerConfidence(
         best = i;
       }
     }
-    if (best === leader) winsForLeader++;
+    if (state.variants[best].angle === leaderAngle) winsForAngle++;
   }
   const lv = state.variants[leader];
   return {
     creativeId: lv.creativeId,
     angle: lv.angle,
-    confidence: winsForLeader / draws,
+    confidence: winsForAngle / draws,
   };
 }
 
