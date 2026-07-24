@@ -72,6 +72,9 @@ through the registry.
 ## Gates
 
 1. ~~schemas + tickets.json + CLAUDE.md on main~~ ✅
-2. `fixtures/cache/clusters.json` exists and matches the planted themes
-3. Full pipeline runs end-to-end on stubs; replay streams both cycles
-4. Real P2/P3 modules swapped in; live run refreshes cache; `DEMO=replay` default
+2. ~~`fixtures/cache/clusters.json` exists and matches the planted themes~~ ✅
+3. ~~Full pipeline runs end-to-end (P3's real mediaBuyer + P2 stubs); replay
+   streams both cycles (328 events, ~36s)~~ ✅ — `DEMO=replay` is now default
+4. Real P2 modules swapped into `lib/signals/registry.ts`; final live run
+   refreshes cache. **Blocked on user:** valid `COMPOSIO_API_KEY` (current one
+   401s) or `SLACK_WEBHOOK_URL` in `.env.local`, then `POST /api/ship` goes live
