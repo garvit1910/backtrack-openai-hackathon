@@ -1,101 +1,116 @@
-import Image from "next/image";
+"use client";
+
+import { useState } from "react";
+import { LoopRail } from "@/components/LoopRail";
+import { fmtPct } from "@/components/format";
+import { IngestPanel } from "@/components/panels/IngestPanel";
+import { UnderstandPanel } from "@/components/panels/UnderstandPanel";
+import { ResearchPanel } from "@/components/panels/ResearchPanel";
+import { CompilePanel } from "@/components/panels/CompilePanel";
+import { CreatePanel } from "@/components/panels/CreatePanel";
+import { TestPanel } from "@/components/panels/TestPanel";
+import { LearnPanel } from "@/components/panels/LearnPanel";
+import { ShipPanel } from "@/components/panels/ShipPanel";
+import { useRunStream, type RunMode } from "@/components/useRunStream";
 
 export default function Home() {
-  return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="https://nextjs.org/icons/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+  const { state, start, dispatchEvent } = useRunStream();
+  const [mode, setMode] = useState<RunMode>("replay");
+  const running = state.status === "running";
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="https://nextjs.org/icons/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:min-w-44"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+  return (
+    <main className="mx-auto flex min-h-screen max-w-[1400px] flex-col gap-2 px-4 py-3">
+      <header className="flex items-center gap-4">
+        <div>
+          <h1 className="text-lg font-bold tracking-tight text-ink">
+            Backtalk <span className="text-accent">↺</span>
+          </h1>
+          <p className="text-[11px] text-muted">feedback in · ads out · every cycle smarter</p>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
+
+        <span
+          key={state.cycle}
+          className="pop num ml-2 rounded-full border border-accent/50 bg-accent/10 px-3 py-1 text-sm font-bold tracking-wide text-accent"
         >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="https://nextjs.org/icons/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+          CYCLE {state.cycle}
+        </span>
+
+        <div className="ml-auto flex items-center gap-2">
+          {state.warnings.length > 0 && (
+            <span
+              className="max-w-[260px] truncate text-[10px] text-muted"
+              title={state.warnings.join("\n")}
+            >
+              ⚠ {state.warnings[state.warnings.length - 1]}
+            </span>
+          )}
+          {state.reports[1] && (
+            <span className="num rounded bg-surface px-2 py-1 text-[11px] text-ink2">
+              C1 {fmtPct(state.reports[1].avgCtr, 2)}
+            </span>
+          )}
+          {state.reports[2] && (
+            <span className="num rounded bg-surface px-2 py-1 text-[11px] text-ink">
+              C2 {fmtPct(state.reports[2].avgCtr, 2)}
+            </span>
+          )}
+          <select
+            value={mode}
+            onChange={(e) => setMode(e.target.value as RunMode)}
+            disabled={running}
+            className="rounded-md border border-hairline bg-surface px-2 py-1.5 text-xs text-ink2 outline-none"
+            aria-label="run mode"
+          >
+            <option value="replay">replay</option>
+            <option value="live">live</option>
+            <option value="mock">mock (offline)</option>
+          </select>
+          <button
+            onClick={() => start(mode)}
+            disabled={running}
+            className="rounded-md bg-accent px-4 py-1.5 text-sm font-semibold text-page transition hover:brightness-110 disabled:opacity-50"
+          >
+            {running ? "running…" : state.status === "ended" ? "run again" : "run the loop"}
+          </button>
+        </div>
+      </header>
+
+      <LoopRail state={state} />
+
+      <div className="grid grid-cols-12 gap-2">
+        <div className="col-span-3 h-[196px]">
+          <IngestPanel state={state} />
+        </div>
+        <div className="col-span-5 h-[196px]">
+          <UnderstandPanel state={state} />
+        </div>
+        <div className="col-span-4 h-[196px]">
+          <ResearchPanel state={state} />
+        </div>
+      </div>
+
+      <div className="grid grid-cols-12 gap-2">
+        <div className="col-span-4 h-[228px]">
+          <CompilePanel state={state} />
+        </div>
+        <div className="col-span-8 h-[228px]">
+          <CreatePanel state={state} />
+        </div>
+      </div>
+
+      <div className="grid grid-cols-12 gap-2 pb-2">
+        <div className="col-span-8 h-[240px]">
+          <TestPanel state={state} />
+        </div>
+        <div className="col-span-4 flex h-[240px] flex-col gap-2">
+          <div className="min-h-0 flex-1">
+            <LearnPanel state={state} />
+          </div>
+          <div className="min-h-0 flex-1">
+            <ShipPanel state={state} dispatchEvent={dispatchEvent} />
+          </div>
+        </div>
+      </div>
+    </main>
   );
 }

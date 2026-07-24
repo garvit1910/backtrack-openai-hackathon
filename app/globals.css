@@ -52,4 +52,70 @@ body {
     border-color: var(--accent);
     box-shadow: 0 0 0 1px var(--accent), 0 0 24px -6px var(--accent);
   }
+  .rise {
+    animation: rise 320ms ease both;
+  }
+  .pop {
+    animation: pop 420ms cubic-bezier(0.2, 1.4, 0.4, 1) both;
+  }
+  .learn-row {
+    animation: learnrow 700ms cubic-bezier(0.2, 1, 0.3, 1) both;
+  }
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(7px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pop {
+  from {
+    opacity: 0;
+    transform: scale(0.6);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes learnrow {
+  from {
+    opacity: 0;
+    transform: translateX(-14px);
+    background: var(--accent-dim);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes dashflow {
+  to {
+    stroke-dashoffset: -24;
+  }
+}
+.edge-flow {
+  stroke-dasharray: 6 6;
+  animation: dashflow 700ms linear infinite;
+}
+
+@keyframes nodepulse {
+  0%,
+  100% {
+    filter: drop-shadow(0 0 2px var(--accent));
+  }
+  50% {
+    filter: drop-shadow(0 0 9px var(--accent));
+  }
+}
+.node-active {
+  animation: nodepulse 1.4s ease-in-out infinite;
 }
