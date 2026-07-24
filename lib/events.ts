@@ -6,7 +6,7 @@
  * so cycle tagging is automatic and payloads stay the only moving part.
  */
 
-import type { Cycle, Stage, StageEvent } from "@/lib/schemas";
+import type { Cycle, Stage, StageEvent } from "./schemas";
 
 export type Emit = (e: StageEvent) => void;
 
