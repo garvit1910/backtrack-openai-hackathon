@@ -37,7 +37,7 @@
   },
   {
     "id": "cl_4",
-    "label": "Returns & exchanges",
+    "label": "Returns and exchanges",
     "share": 0.105,
     "trend": 1,
     "revenueAtRisk": 22587,
@@ -55,7 +55,7 @@
   },
   {
     "id": "cl_3",
-    "label": "Competitive pricing",
+    "label": "Pricing concerns",
     "share": 0.14,
     "trend": 1.5,
     "revenueAtRisk": 18718,
@@ -73,7 +73,7 @@
   },
   {
     "id": "cl_5",
-    "label": "Admin portal issues",
+    "label": "CSV upload failures",
     "share": 0.07,
     "trend": 0,
     "revenueAtRisk": 12742,
@@ -109,7 +109,7 @@
   },
   {
     "id": "cl_1",
-    "label": "Billing & invoices",
+    "label": "Invoice inquiries",
     "share": 0.04,
     "trend": 0,
     "revenueAtRisk": 9480,

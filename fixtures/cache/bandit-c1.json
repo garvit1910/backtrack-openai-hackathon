@@ -1,0 +1,24 @@
+{
+  "cycle": 1,
+  "winners": {
+    "starter": {
+      "winnerCreativeId": "cr_c1_starter_value_a",
+      "winnerAngle": "value",
+      "ctrEstimate": 0.03534571723426213,
+      "confidence": 0.966
+    },
+    "growth": {
+      "winnerCreativeId": "cr_c1_growth_speed_a",
+      "winnerAngle": "speed",
+      "ctrEstimate": 0.032503660322108344,
+      "confidence": 0.922
+    },
+    "enterprise": {
+      "winnerCreativeId": "cr_c1_enterprise_reliability_a",
+      "winnerAngle": "reliability",
+      "ctrEstimate": 0.04333145751266179,
+      "confidence": 0.984
+    }
+  },
+  "avgCtr": 0.03360225001850344
+}

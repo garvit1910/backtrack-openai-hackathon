@@ -1,0 +1,44 @@
+{
+  "topClusterLabel": "Shipping delays",
+  "revenueAtRisk": 65501,
+  "winners": {
+    "starter": {
+      "creativeId": "cr_c2_starter_value_b",
+      "angle": "value",
+      "headline": "Premium team merch without the platform-fee bloat.",
+      "ctrEstimate": 0.03478515054077755
+    },
+    "growth": {
+      "creativeId": "cr_c2_growth_speed_b",
+      "angle": "speed",
+      "headline": "Offsite in three weeks? Kits in two.",
+      "ctrEstimate": 0.039226080042406575
+    },
+    "enterprise": {
+      "creativeId": "cr_c2_enterprise_reliability_b",
+      "angle": "reliability",
+      "headline": "Merch that arrives when we said it would.",
+      "ctrEstimate": 0.04173419773095624
+    }
+  },
+  "cycle1AvgCtr": 0.03360225001850344,
+  "cycle2AvgCtr": 0.035463093210927665,
+  "evidenceLinks": [
+    {
+      "sourceName": "bbb.org",
+      "sourceUrl": "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info"
+    },
+    {
+      "sourceName": "trustradius.com",
+      "sourceUrl": "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34"
+    },
+    {
+      "sourceName": "mayakern.com",
+      "sourceUrl": "https://www.mayakern.com/blog/on-the-november-20th-launch"
+    },
+    {
+      "sourceName": "swagoffroad.com",
+      "sourceUrl": "http://swagoffroad.com/pages/customer-service"
+    }
+  ]
+}

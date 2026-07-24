@@ -1,0 +1,209 @@
+[
+  {
+    "id": "cr_c1_starter_value_a",
+    "clusterId": "cl_0",
+    "segment": "starter",
+    "angle": "value",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "Premium team merch without the platform-fee bloat.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. The BBB reports a pattern of complaints against Piper and Ivy concerning non-delivery issues. — BBB reached out to the business in January 2022 to obtain information about the complaints.",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "440abdb101eb"
+  },
+  {
+    "id": "cr_c1_starter_speed_a",
+    "clusterId": "cl_0",
+    "segment": "starter",
+    "angle": "speed",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "Offsite in three weeks? Kits in two.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. A TrustRadius review explicitly notes that Printfection has ‘turnaround times are long.’ — Despite the long turnaround comment, the review still gives Printfection a 7 out of 10 overall score.",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "440abdb101eb"
+  },
+  {
+    "id": "cr_c1_starter_trust_a",
+    "clusterId": "cl_0",
+    "segment": "starter",
+    "angle": "trust",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "See every complaint we fixed — receipts included.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. Blogger Maya Kern announced that a November 20th product launch would have delayed shipping because launch items were still in the warehouse and queued for check-in. — The post attributes the delay to an unusually high holiday processing volume (warehouse check-in queue).",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "440abdb101eb"
+  },
+  {
+    "id": "cr_c1_growth_speed_a",
+    "clusterId": "cl_0",
+    "segment": "growth",
+    "angle": "speed",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "Offsite in three weeks? Kits in two.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. The BBB reports a pattern of complaints against Piper and Ivy concerning non-delivery issues. — BBB reached out to the business in January 2022 to obtain information about the complaints.",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "846e8eb536f9"
+  },
+  {
+    "id": "cr_c1_growth_reliability_a",
+    "clusterId": "cl_0",
+    "segment": "growth",
+    "angle": "reliability",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "Merch that arrives when we said it would.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. A TrustRadius review explicitly notes that Printfection has ‘turnaround times are long.’ — Despite the long turnaround comment, the review still gives Printfection a 7 out of 10 overall score.",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "846e8eb536f9"
+  },
+  {
+    "id": "cr_c1_growth_service_a",
+    "clusterId": "cl_0",
+    "segment": "growth",
+    "angle": "service",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "A named human answers in hours, not weeks.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. Blogger Maya Kern announced that a November 20th product launch would have delayed shipping because launch items were still in the warehouse and queued for check-in. — The post attributes the delay to an unusually high holiday processing volume (warehouse check-in queue).",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "846e8eb536f9"
+  },
+  {
+    "id": "cr_c1_enterprise_reliability_a",
+    "clusterId": "cl_0",
+    "segment": "enterprise",
+    "angle": "reliability",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "Merch that arrives when we said it would.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. The BBB reports a pattern of complaints against Piper and Ivy concerning non-delivery issues. — BBB reached out to the business in January 2022 to obtain information about the complaints.",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "fa11a9e846b4"
+  },
+  {
+    "id": "cr_c1_enterprise_trust_a",
+    "clusterId": "cl_0",
+    "segment": "enterprise",
+    "angle": "trust",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "See every complaint we fixed — receipts included.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. A TrustRadius review explicitly notes that Printfection has ‘turnaround times are long.’ — Despite the long turnaround comment, the review still gives Printfection a 7 out of 10 overall score.",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "fa11a9e846b4"
+  },
+  {
+    "id": "cr_c1_enterprise_service_a",
+    "clusterId": "cl_0",
+    "segment": "enterprise",
+    "angle": "service",
+    "cycle": 1,
+    "kind": "paid_social",
+    "headline": "A named human answers in hours, not weeks.",
+    "body": "Shipping delays: 74 tickets (37% of volume), $65501 MRR at risk, trend +0.74. Blogger Maya Kern announced that a November 20th product launch would have delayed shipping because launch items were still in the warehouse and queued for check-in. — The post attributes the delay to an unusually high holiday processing volume (warehouse check-in queue).",
+    "citations": {
+      "ticketIds": [
+        "tkt_0053",
+        "tkt_0009",
+        "tkt_0022"
+      ],
+      "sourceUrls": [
+        "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+        "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+        "https://www.mayakern.com/blog/on-the-november-20th-launch"
+      ]
+    },
+    "packFingerprint": "fa11a9e846b4"
+  }
+]

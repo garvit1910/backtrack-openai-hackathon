@@ -1,0 +1,121 @@
+[
+  {
+    "clusterId": "cl_0",
+    "claim": "The BBB reports a pattern of complaints against Piper and Ivy concerning non-delivery issues.",
+    "counterpoint": "BBB reached out to the business in January 2022 to obtain information about the complaints.",
+    "sourceUrl": "https://bbb.org/us/fl/lakewood-ranch/profile/custom-logo-apparel/piper-and-ivy-0653-90403285/more-info",
+    "sourceName": "bbb.org"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "A TrustRadius review explicitly notes that Printfection has ‘turnaround times are long.’",
+    "counterpoint": "Despite the long turnaround comment, the review still gives Printfection a 7 out of 10 overall score.",
+    "sourceUrl": "https://www.trustradius.com/reviews/printfection-2023-03-14-11-08-34",
+    "sourceName": "trustradius.com"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "Blogger Maya Kern announced that a November 20th product launch would have delayed shipping because launch items were still in the warehouse and queued for check-in.",
+    "counterpoint": "The post attributes the delay to an unusually high holiday processing volume (warehouse check-in queue).",
+    "sourceUrl": "https://www.mayakern.com/blog/on-the-november-20th-launch",
+    "sourceName": "mayakern.com"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "Swag Off Road’s customer service page states that if the company discovers a delay in a shipment, they will do their best to contact the customer.",
+    "counterpoint": "The policy language is conditional (‘will do our best’), not an absolute delivery-time guarantee.",
+    "sourceUrl": "http://swagoffroad.com/pages/customer-service",
+    "sourceName": "swagoffroad.com"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "PPAI research describes branded-merch industry sales as only ‘inching ahead,’ with growth small enough that it hasn’t relieved margin pressures or guaranteed profits.",
+    "counterpoint": "Although growth is modest, the phrasing indicates sales are still increasing (i.e., ‘inching ahead’).",
+    "sourceUrl": "https://www.ppai.org/media-hub/branded-merch-industry-sales-inching-ahead-ppai-research-shows/",
+    "sourceName": "ppai.org"
+  },
+  {
+    "clusterId": "cl_0",
+    "claim": "Industry content (SnackNation) recommends quick-turnaround swag and promotional items as the solution when teams face tight deadlines.",
+    "counterpoint": "The guidance implies quick-turnaround options exist, but does not quantify how common or fast those options are in practice.",
+    "sourceUrl": "https://snacknation.com/blog/quick-turnaround-swag",
+    "sourceName": "snacknation.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "A Trustpilot review of Merchspirit (review by Luisa on 1/7/2025) explicitly states 'Sizing is off!' and that the reviewer bought two identical items hoping one would fit but could not return the other.",
+    "counterpoint": "This is a single Trustpilot review (Luisa, 1/7/2025) on the merchant's Trustpilot page.",
+    "sourceUrl": "https://ca.trustpilot.com/reviews/677d7e1a1e9202051ffabbae",
+    "sourceName": "ca.trustpilot.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "A product review on Swag‑Kicks says the buyer ordered size 41 but received children's shoes instead.",
+    "counterpoint": "The same reviewer also reports that the company required the buyer to pay return delivery charges when they asked about a return.",
+    "sourceUrl": "https://www.swag-kicks.com/products/asics-t696n-gel-kayano-23-low-top-lace-up-trainer-sneaker",
+    "sourceName": "swag-kicks.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "Jetprint’s Shopify App reviews page includes customer comments complaining about poor garment quality and 'Poor QC before sending out item,' with customer service 'not taking ownership of the poor quality.'",
+    "counterpoint": "The app reviews section shows a total of 97 reviews listed on that page.",
+    "sourceUrl": "https://apps.shopify.com/jetprint-fulfillment/reviews?locale=pt-BR",
+    "sourceName": "apps.shopify.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "A Trustpilot review of Custom Ink (dated 3/27/2026) reports a design was misaligned when printed, appearing much lower on the merchandise than expected, and that the logo was altered unnecessarily.",
+    "counterpoint": "This specific feedback appears in an individual Trustpilot review by Corbett R on 3/27/2026.",
+    "sourceUrl": "https://at.trustpilot.com/reviews/69c6a08d5ef62f5a4a87e06f",
+    "sourceName": "at.trustpilot.com"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "The BBB profile for Netbrands Media Corporation shows 83 total complaints in the last 3 years and notes the business is NOT BBB Accredited.",
+    "counterpoint": "The BBB page also indicates there is 1 alert on the business profile.",
+    "sourceUrl": "https://www.bbb.org/us/tx/houston/profile/wearable-promotional-products/netbrands-media-corporation-0915-90002118/complaints?page=2",
+    "sourceName": "bbb.org"
+  },
+  {
+    "clusterId": "cl_6",
+    "claim": "Exclaim's 'Why We're a Trusted Seller' page states a satisfaction guarantee: if something is wrong with an order they'll 'make it right' and will replace items when they made a mistake.",
+    "counterpoint": "This is a vendor-stated satisfaction guarantee on the company's own site describing what they will cover.",
+    "sourceUrl": "https://exclaim.gg/satisfaction-guarantee",
+    "sourceName": "exclaim.gg"
+  },
+  {
+    "clusterId": "cl_4",
+    "claim": "CorporateGotem's returns policy states refunds are only offered as store credit and returns are accepted for up to 7 days for unworn, undamaged, unwashed, and non-modified merchandise.",
+    "counterpoint": "The policy also explicitly excludes limited-release styles from refunds or returns.",
+    "sourceUrl": "https://corporategotem.com/pages/refund-policy",
+    "sourceName": "corporategotem.com"
+  },
+  {
+    "clusterId": "cl_4",
+    "claim": "Branded Promo's returns page says 'almost every product is custom-made for your brand,' and therefore 'we treat returns a little differently than a general retailer.'",
+    "counterpoint": "The policy continues by referencing 'If we make a mistake or your order arrives...' indicating returns/rectification are framed around seller error or delivery issues.",
+    "sourceUrl": "https://www.brandedpromo.com/returns",
+    "sourceName": "brandedpromo.com"
+  },
+  {
+    "clusterId": "cl_4",
+    "claim": "SwagUp's returns policy 'strongly recommend[s] you and your swag recipients inspect all items upon receipt' and instructs customers to report any issues if they find them.",
+    "counterpoint": "The language frames inspection as a customer responsibility (a recommendation) rather than an automatic entitlement to return.",
+    "sourceUrl": "https://www.swagup.com/return-refund-policy",
+    "sourceName": "swagup.com"
+  },
+  {
+    "clusterId": "cl_4",
+    "claim": "The Better Business Bureau listing shows Netbrands Media Corporation had 83 total complaints in the last 3 years and the business is not BBB Accredited.",
+    "counterpoint": "The BBB listing also indicates the company has 1 alert on its profile.",
+    "sourceUrl": "https://www.bbb.org/us/tx/houston/profile/wearable-promotional-products/netbrands-media-corporation-0915-90002118/complaints?page=2",
+    "sourceName": "bbb.org"
+  },
+  {
+    "clusterId": "cl_4",
+    "claim": "Imprint5's return policy instructs customers to contact their Sales Representative if an order 'arrives differently from what you approved.'",
+    "counterpoint": "The page says the Sales Representative will 'be pleased to help address any general issues you may have with your print job,' indicating support is mediated through sales reps rather than an automated self-serve return flow.",
+    "sourceUrl": "https://www.imprint5.com/return-policy",
+    "sourceName": "imprint5.com"
+  }
+]

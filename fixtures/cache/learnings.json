@@ -1,0 +1,38 @@
+[
+  {
+    "id": "stub_learning_1_starter",
+    "type": "learning",
+    "content": "starter converts best on the value angle (ctr 3.5%, confidence 97%) — lead with value for this segment.",
+    "segment": "starter",
+    "clusterId": "cl_0",
+    "sourceRefs": [
+      "cr_c1_starter_value_a"
+    ],
+    "confidence": 0.966,
+    "version": 2
+  },
+  {
+    "id": "stub_learning_1_growth",
+    "type": "learning",
+    "content": "growth converts best on the speed angle (ctr 3.3%, confidence 92%) — lead with speed for this segment.",
+    "segment": "growth",
+    "clusterId": "cl_0",
+    "sourceRefs": [
+      "cr_c1_growth_speed_a"
+    ],
+    "confidence": 0.922,
+    "version": 2
+  },
+  {
+    "id": "stub_learning_1_enterprise",
+    "type": "learning",
+    "content": "enterprise converts best on the reliability angle (ctr 4.3%, confidence 98%) — lead with reliability for this segment.",
+    "segment": "enterprise",
+    "clusterId": "cl_0",
+    "sourceRefs": [
+      "cr_c1_enterprise_reliability_a"
+    ],
+    "confidence": 0.984,
+    "version": 2
+  }
+]
